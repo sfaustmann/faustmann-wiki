@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfaustmann_wiki=globalThis.webpackChunkfaustmann_wiki||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/faustmann-wiki/blog","blogTitle":"Blog","authorsListPath":"/faustmann-wiki/blog/authors"}')}}]);
