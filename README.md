@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# faustmann-wiki
+Statische Portfolio- und Dokumentations-Website der Faustmann UG
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
@@ -40,7 +41,3 @@ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-=======
-# faustmann-wiki
-Statische Portfolio- und Dokumentations-Website der Faustmann UG
->>>>>>> 02727f5158a0971efbe19cf521760403f95e68a2
