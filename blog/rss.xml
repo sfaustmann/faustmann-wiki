@@ -15,7 +15,8 @@
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
             <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer" class="">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer" class="">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
+<p>Here are a few tips you might find useful.
+Könnte ja sein.</p>
 <p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
 <p>Regular blog authors can be added to <code>authors.yml</code>.</p>
 <p>The blog post date can be extracted from filenames, such as:</p>
