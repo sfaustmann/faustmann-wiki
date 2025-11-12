@@ -1,0 +1,1 @@
+(globalThis.webpackChunkfaustmann_wiki=globalThis.webpackChunkfaustmann_wiki||[]).push([[5741],{5741:()=>{}}]);
