@@ -71,9 +71,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'Faustmann2know',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Faustmann UG Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -85,7 +85,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/sfaustmann/faustmann-wiki',
           label: 'GitHub',
           position: 'right',
         },
@@ -95,7 +95,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Dokumente',
           items: [
             {
               label: 'Tutorial',
@@ -129,7 +129,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/sfaustmann/faustmann-wiki',
             },
           ],
         },
