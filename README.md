@@ -1,5 +1,3 @@
-# faustmann-wiki
-Statische Portfolio- und Dokumentations-Website der Faustmann UG
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
