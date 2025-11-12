@@ -1,322 +1,279 @@
 {
-  "/faustmann-wiki/__docusaurus/debug-46e": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
-    }
-  },
-  "/faustmann-wiki/__docusaurus/debug/config-75c": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
-    }
-  },
-  "/faustmann-wiki/__docusaurus/debug/content-2c9": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
-    },
-    "__props": "__props---faustmann-wiki-docusaurus-debug-contentd-52-f33"
-  },
-  "/faustmann-wiki/__docusaurus/debug/globalData-f07": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
-    }
-  },
-  "/faustmann-wiki/__docusaurus/debug/metadata-858": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
-    }
-  },
-  "/faustmann-wiki/__docusaurus/debug/registry-df9": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
-    }
-  },
-  "/faustmann-wiki/__docusaurus/debug/routes-599": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
-    }
-  },
   "/faustmann-wiki/blog-dd3": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---faustmann-wiki-blog-766-802"
+        "content": "7661071f"
       },
       {
-        "content": "content---faustmann-wiki-blogf-4-f-1d1"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---faustmann-wiki-blog-871-0ea"
+        "content": "8717b14a"
       },
       {
-        "content": "content---faustmann-wiki-blog-925-93f"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---faustmann-wiki-blog-63-a-81a"
+    "__props": "63a44703"
   },
   "/faustmann-wiki/blog/archive-bd5": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "__props": "__props---faustmann-wiki-blog-archive-3-a-0-43b"
+    "__props": "3a09de47"
   },
   "/faustmann-wiki/blog/authors-c74": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
-    "__props": "__props---faustmann-wiki-blog-authors-5-b-9-1b4"
+    "sidebar": "814f3328",
+    "__props": "5b9c2791"
   },
   "/faustmann-wiki/blog/authors/all-sebastien-lorber-articles-e5d": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---faustmann-wiki-blog-766-802"
+        "content": "7661071f"
       },
       {
-        "content": "content---faustmann-wiki-blogf-4-f-1d1"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---faustmann-wiki-blog-925-93f"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
-    "__props": "__props---faustmann-wiki-blog-authors-all-sebastien-lorber-articlesf-9-b-992"
+    "sidebar": "814f3328",
+    "__props": "f9b0bb8f"
   },
   "/faustmann-wiki/blog/authors/yangshun-4e4": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---faustmann-wiki-blog-766-802"
+        "content": "7661071f"
       },
       {
-        "content": "content---faustmann-wiki-blog-871-0ea"
+        "content": "8717b14a"
       },
       {
-        "content": "content---faustmann-wiki-blog-925-93f"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
-    "__props": "__props---faustmann-wiki-blog-authors-yangshunb-7-a-ecd"
+    "sidebar": "814f3328",
+    "__props": "b7a00465"
   },
   "/faustmann-wiki/blog/first-blog-post-857": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
-    "content": "content---faustmann-wiki-blog-first-blog-poste-27-514"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/faustmann-wiki/blog/long-blog-post-72c": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
-    "content": "content---faustmann-wiki-blog-long-blog-post-736-831"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/faustmann-wiki/blog/mdx-blog-post-52c": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
-    "content": "content---faustmann-wiki-blog-mdx-blog-post-593-e30"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/faustmann-wiki/blog/tags-4fa": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
-    "__props": "__props---faustmann-wiki-blog-tagsb-80-d5c"
+    "sidebar": "814f3328",
+    "__props": "b80ff85b"
   },
   "/faustmann-wiki/blog/tags/docusaurus-09a": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---faustmann-wiki-blog-766-802"
+        "content": "7661071f"
       },
       {
-        "content": "content---faustmann-wiki-blogf-4-f-1d1"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---faustmann-wiki-blog-871-0ea"
+        "content": "8717b14a"
       },
       {
-        "content": "content---faustmann-wiki-blog-925-93f"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---faustmann-wiki-blog-tags-docusaurus-967-4c0"
+    "__props": "967a0db8"
   },
   "/faustmann-wiki/blog/tags/facebook-36a": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---faustmann-wiki-blog-766-802"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---faustmann-wiki-blog-tags-facebookc-78-76f"
+    "__props": "c7831ce5"
   },
   "/faustmann-wiki/blog/tags/hello-de3": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---faustmann-wiki-blog-766-802"
+        "content": "7661071f"
       },
       {
-        "content": "content---faustmann-wiki-blog-871-0ea"
+        "content": "8717b14a"
       }
     ],
-    "__props": "__props---faustmann-wiki-blog-tags-hellob-0-f-b93"
+    "__props": "b0fbb155"
   },
   "/faustmann-wiki/blog/tags/hola-3fe": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---faustmann-wiki-blog-925-93f"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---faustmann-wiki-blog-tags-hola-97-b-270"
+    "__props": "97bd248e"
   },
   "/faustmann-wiki/blog/welcome-266": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
-    "content": "content---faustmann-wiki-blog-welcomed-9-f-10e"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/faustmann-wiki/markdown-page-cc6": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-markdown-pagea-74-488"
+      "plugin": "a7456010"
     },
-    "content": "content---faustmann-wiki-markdown-page-393-0ad"
+    "content": "393be207"
   },
   "/faustmann-wiki/search-758": {
-    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__comp": "1a4e3797",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-search-138-79a"
+      "plugin": "138e0e15"
     }
   },
   "/faustmann-wiki/docs-9ed": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-docsaba-11a"
+      "plugin": "aba21aa0"
     }
   },
   "/faustmann-wiki/docs-87f": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---faustmann-wiki-docsbe-2-a0c"
+    "__comp": "a7bd4aaa",
+    "__props": "be26d934"
   },
   "/faustmann-wiki/docs-2fc": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/faustmann-wiki/docs/category/tutorial---basics-7f5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---faustmann-wiki-docs-category-tutorial-basics-8-f-5-065"
+    "__comp": "14eb3368",
+    "__props": "8f55ef9d"
   },
   "/faustmann-wiki/docs/category/tutorial---extras-755": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---faustmann-wiki-docs-category-tutorial-extras-2-da-e28"
+    "__comp": "14eb3368",
+    "__props": "2da834f6"
   },
   "/faustmann-wiki/docs/intro-b6e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faustmann-wiki-docs-intro-0-e-3-c2c"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/faustmann-wiki/docs/tutorial-basics/congratulations-02b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faustmann-wiki-docs-tutorial-basics-congratulations-822-b6e"
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
   "/faustmann-wiki/docs/tutorial-basics/create-a-blog-post-827": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faustmann-wiki-docs-tutorial-basics-create-a-blog-post-533-dab"
+    "__comp": "17896441",
+    "content": "533a09ca"
   },
   "/faustmann-wiki/docs/tutorial-basics/create-a-document-437": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faustmann-wiki-docs-tutorial-basics-create-a-document-1-e-4-a6d"
+    "__comp": "17896441",
+    "content": "1e4232ab"
   },
   "/faustmann-wiki/docs/tutorial-basics/create-a-page-a9c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faustmann-wiki-docs-tutorial-basics-create-a-page-5-c-8-44b"
+    "__comp": "17896441",
+    "content": "5c868d36"
   },
   "/faustmann-wiki/docs/tutorial-basics/deploy-your-site-ac8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faustmann-wiki-docs-tutorial-basics-deploy-your-sitef-55-eb0"
+    "__comp": "17896441",
+    "content": "f55d3e7a"
   },
   "/faustmann-wiki/docs/tutorial-basics/markdown-features-d36": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faustmann-wiki-docs-tutorial-basics-markdown-features-18-c-0a4"
+    "__comp": "17896441",
+    "content": "18c41134"
   },
   "/faustmann-wiki/docs/tutorial-extras/manage-docs-versions-cd0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faustmann-wiki-docs-tutorial-extras-manage-docs-versionsdff-79f"
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
   "/faustmann-wiki/docs/tutorial-extras/translate-your-site-62a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faustmann-wiki-docs-tutorial-extras-translate-your-sitee-44-d29"
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
   "/faustmann-wiki/-f7f": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---faustmann-wiki-markdown-pagea-74-488"
+      "plugin": "a7456010"
     },
-    "config": "config---faustmann-wiki-5-e-9-611"
+    "config": "5e9f5e1a"
   }
 }

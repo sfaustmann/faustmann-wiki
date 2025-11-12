@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/faustmann-wiki/__docusaurus/debug',
-    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug', '46e'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/__docusaurus/debug/config',
-    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/config', '75c'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/__docusaurus/debug/content',
-    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/content', '2c9'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/__docusaurus/debug/globalData',
-    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/globalData', 'f07'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/__docusaurus/debug/metadata',
-    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/metadata', '858'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/__docusaurus/debug/registry',
-    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/registry', 'df9'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/__docusaurus/debug/routes',
-    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/routes', '599'),
-    exact: true
-  },
-  {
     path: '/faustmann-wiki/blog',
     component: ComponentCreator('/faustmann-wiki/blog', 'dd3'),
     exact: true

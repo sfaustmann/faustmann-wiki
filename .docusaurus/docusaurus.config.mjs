@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Faustmann Wiki",
-  "tagline": "Dinosaurs are cool",
+  "title": "Faustmann2know",
+  "tagline": "Wissen, was wichtig ist",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
