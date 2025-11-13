@@ -1,6 +1,5 @@
 export default {
   "01a85c17": [() => import(/* webpackChunkName: "01a85c17" */ "@theme/BlogTagsListPage"), "@theme/BlogTagsListPage", require.resolveWeak("@theme/BlogTagsListPage")],
-  "0e384e19": [() => import(/* webpackChunkName: "0e384e19" */ "@site/docs/intro.md"), "@site/docs/intro.md", require.resolveWeak("@site/docs/intro.md")],
   "138e0e15": [() => import(/* webpackChunkName: "138e0e15" */ "@generated/@easyops-cn/docusaurus-search-local/default/__plugin.json"), "@generated/@easyops-cn/docusaurus-search-local/default/__plugin.json", require.resolveWeak("@generated/@easyops-cn/docusaurus-search-local/default/__plugin.json")],
   "14eb3368": [() => import(/* webpackChunkName: "14eb3368" */ "@theme/DocCategoryGeneratedIndexPage"), "@theme/DocCategoryGeneratedIndexPage", require.resolveWeak("@theme/DocCategoryGeneratedIndexPage")],
   "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
@@ -25,6 +24,7 @@ export default {
   "6875c492": [() => import(/* webpackChunkName: "6875c492" */ "@theme/BlogTagsPostsPage"), "@theme/BlogTagsPostsPage", require.resolveWeak("@theme/BlogTagsPostsPage")],
   "73664a40": [() => import(/* webpackChunkName: "73664a40" */ "@site/blog/2019-05-29-long-blog-post.md"), "@site/blog/2019-05-29-long-blog-post.md", require.resolveWeak("@site/blog/2019-05-29-long-blog-post.md")],
   "7661071f": [() => import(/* webpackChunkName: "7661071f" */ "@site/blog/2021-08-26-welcome/index.md?truncated=true"), "@site/blog/2021-08-26-welcome/index.md?truncated=true", require.resolveWeak("@site/blog/2021-08-26-welcome/index.md?truncated=true")],
+  "7d744e69": [() => import(/* webpackChunkName: "7d744e69" */ "@site/docs/intro/intro.md"), "@site/docs/intro/intro.md", require.resolveWeak("@site/docs/intro/intro.md")],
   "814f3328": [() => import(/* webpackChunkName: "814f3328" */ "~blog/default/blog-post-list-prop-default.json"), "~blog/default/blog-post-list-prop-default.json", require.resolveWeak("~blog/default/blog-post-list-prop-default.json")],
   "822bd8ab": [() => import(/* webpackChunkName: "822bd8ab" */ "@site/docs/tutorial-basics/congratulations.md"), "@site/docs/tutorial-basics/congratulations.md", require.resolveWeak("@site/docs/tutorial-basics/congratulations.md")],
   "8717b14a": [() => import(/* webpackChunkName: "8717b14a" */ "@site/blog/2019-05-29-long-blog-post.md?truncated=true"), "@site/blog/2019-05-29-long-blog-post.md?truncated=true", require.resolveWeak("@site/blog/2019-05-29-long-blog-post.md?truncated=true")],

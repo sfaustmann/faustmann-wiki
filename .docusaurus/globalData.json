@@ -8,11 +8,11 @@
           "label": "Next",
           "isLast": true,
           "path": "/faustmann-wiki/docs",
-          "mainDocId": "intro",
+          "mainDocId": "intro/intro",
           "docs": [
             {
-              "id": "intro",
-              "path": "/faustmann-wiki/docs/intro",
+              "id": "intro/intro",
+              "path": "/faustmann-wiki/docs/intro/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -70,8 +70,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/faustmann-wiki/docs/intro",
-                "label": "intro"
+                "path": "/faustmann-wiki/docs/intro/",
+                "label": "Tutorial Intro"
               }
             }
           }

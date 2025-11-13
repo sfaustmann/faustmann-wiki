@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', '9ed'),
+    component: ComponentCreator('/faustmann-wiki/docs', 'd56'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', '87f'),
+        component: ComponentCreator('/faustmann-wiki/docs', 'fd5'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', '2fc'),
+            component: ComponentCreator('/faustmann-wiki/docs', '11c'),
             routes: [
               {
                 path: '/faustmann-wiki/docs/category/tutorial---basics',
@@ -107,8 +107,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/intro',
-                component: ComponentCreator('/faustmann-wiki/docs/intro', 'b6e'),
+                path: '/faustmann-wiki/docs/intro/',
+                component: ComponentCreator('/faustmann-wiki/docs/intro/', 'f42'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
