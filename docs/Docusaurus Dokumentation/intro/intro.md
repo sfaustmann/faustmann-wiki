@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Einführung
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Entdecken Sie **Findentity in 30 Minuten**.
 
 ## Getting Started
 
