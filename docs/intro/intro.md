@@ -3,7 +3,7 @@ title: Einführung
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Einführung
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
