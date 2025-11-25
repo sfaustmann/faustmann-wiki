@@ -1,6 +1,5 @@
 {
   "permalink": "/faustmann-wiki/blog/long-blog-post",
-  "editUrl": "https://github.com/sfaustmann/faustmann-wiki/tree/main/blog/2019-05-29-long-blog-post.md",
   "source": "@site/blog/2019-05-29-long-blog-post.md",
   "title": "Long Blog Post",
   "description": "This is the summary of a very long blog post,",
@@ -19,7 +18,6 @@
       "description": "Docusaurus tag description"
     }
   ],
-  "readingTime": 2.04,
   "hasTruncateMarker": true,
   "authors": [
     {
@@ -50,11 +48,7 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/faustmann-wiki/blog/mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "First Blog Post",
-    "permalink": "/faustmann-wiki/blog/first-blog-post"
+    "title": "Mappei Profil in Findentity",
+    "permalink": "/faustmann-wiki/blog/Mappei Profil in Findentity"
   }
 }

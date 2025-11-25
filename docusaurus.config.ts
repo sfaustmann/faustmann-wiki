@@ -8,7 +8,7 @@ const config: Config = {
   title: 'Faustmann2know',
   tagline: 'Wissen, was wichtig ist',
   favicon: 'img/favicon.ico',
-
+  
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -39,19 +39,21 @@ const config: Config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sfaustmann/faustmann-wiki/tree/main/',
+          //editUrl:
+          //  'https://github.com/sfaustmann/faustmann-wiki/tree/main/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
+          blogSidebarTitle: 'Letzte Beiträge',
+          blogSidebarCount: 'ALL',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/sfaustmann/faustmann-wiki/tree/main/',
+          //editUrl:
+          //  'https://github.com/sfaustmann/faustmann-wiki/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -81,12 +83,17 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Anleitungen',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Beiträge', position: 'left'},
         {
-          href: 'https://github.com/sfaustmann/faustmann-wiki',
-          label: 'GitHub',
+          href: 'https://faustmann.de/',
+          label: 'Faustmann UG',
+          position: 'right',
+        },
+        {
+          href: 'https://ecomofa.de/',
+          label: 'ecomofa',
           position: 'right',
         },
       ],
@@ -98,13 +105,13 @@ const config: Config = {
           title: 'Dokumente',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Anleitungen',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Netzwerk',
           items: [
             {
               label: 'Stack Overflow',
@@ -121,11 +128,15 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Mehr',
           items: [
             {
-              label: 'Blog',
+              label: 'Beiträge',
               to: '/blog',
+            },
+            {
+              label: 'Thax Software',
+              href: 'https://www.thax.de/',
             },
             {
               label: 'GitHub',
@@ -165,5 +176,6 @@ const config: Config = {
     ],
   ],
 };
+
 
 export default config;

@@ -47,11 +47,12 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/sfaustmann/faustmann-wiki/tree/main/"
+          "sidebarPath": "./sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
+          "showReadingTime": false,
+          "blogSidebarTitle": "Letzte Beiträge",
+          "blogSidebarCount": "ALL",
           "feedOptions": {
             "type": [
               "rss",
@@ -59,7 +60,6 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/sfaustmann/faustmann-wiki/tree/main/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -88,16 +88,21 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Anleitungen"
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "Beiträge",
           "position": "left"
         },
         {
-          "href": "https://github.com/sfaustmann/faustmann-wiki",
-          "label": "GitHub",
+          "href": "https://faustmann.de/",
+          "label": "Faustmann UG",
+          "position": "right"
+        },
+        {
+          "href": "https://ecomofa.de/",
+          "label": "ecomofa",
           "position": "right"
         }
       ],
@@ -110,13 +115,13 @@ export default {
           "title": "Dokumente",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Anleitungen",
               "to": "/docs/intro"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Netzwerk",
           "items": [
             {
               "label": "Stack Overflow",
@@ -133,11 +138,15 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "Mehr",
           "items": [
             {
-              "label": "Blog",
+              "label": "Beiträge",
               "to": "/blog"
+            },
+            {
+              "label": "Thax Software",
+              "href": "https://www.thax.de/"
             },
             {
               "label": "GitHub",

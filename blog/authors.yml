@@ -1,25 +1,23 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+sfaustmann:
+  name: Stefan Faustmann
+  title: Geschäftsführer Faustmann UG, Gründer ecomofa, Strategierberater Thax Software GmbH
+  url: https://www.linkedin.com/in/stefanfaustmann/
+  image_url: https://avatars.githubusercontent.com/u/8188893?s=400&u=621ff9e923ff78dd10b1fd71e6877974d6b21734&v=4
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    x: sfaustmann_lm
+    linkedin: stefanfaustmann
+    github: sfaustmann
+    
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+tbartsch:
+  name: Thorsten Bartsch
+  title: Geschäftsführer Thax Software GmbH
+  url: https://www.linkedin.com/in/thorsten-bartsch-9445a03/
+  image_url: https://media.licdn.com/dms/image/v2/D4D03AQEkVnAyEmwLgQ/profile-displayphoto-crop_800_800/B4DZistkpYGQAM-/0/1755244284976?e=1764806400&v=beta&t=Qk4iHqGbbvgBZ8rr-aK5MsLwX7HRdL_K2jemmXAt7no
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    linkedin: thorsten-bartsch-9445a03
+    
+    
+    

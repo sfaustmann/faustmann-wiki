@@ -1,7 +1,13 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+
+findentity:
+  label: Findentity
+  permalink: /findentity
+  description: Findentity tag Beschreibung
+
+mappei:
+  label: Mappei
+  permalink: /mappei
+  description: Mappei tag Beschreibung
 
 hello:
   label: Hello

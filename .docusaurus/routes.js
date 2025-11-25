@@ -3,8 +3,43 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/faustmann-wiki/__docusaurus/debug',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug', '46e'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/config',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/config', '75c'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/content',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/content', '2c9'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/globalData',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/globalData', 'f07'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/metadata',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/metadata', '858'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/registry',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/registry', 'df9'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/routes',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/routes', '599'),
+    exact: true
+  },
+  {
     path: '/faustmann-wiki/blog',
-    component: ComponentCreator('/faustmann-wiki/blog', 'dd3'),
+    component: ComponentCreator('/faustmann-wiki/blog', '9e9'),
     exact: true
   },
   {
@@ -18,28 +53,18 @@ export default [
     exact: true
   },
   {
-    path: '/faustmann-wiki/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/faustmann-wiki/blog/authors/all-sebastien-lorber-articles', 'e5d'),
+    path: '/faustmann-wiki/blog/authors/sfaustmann',
+    component: ComponentCreator('/faustmann-wiki/blog/authors/sfaustmann', '327'),
     exact: true
   },
   {
-    path: '/faustmann-wiki/blog/authors/yangshun',
-    component: ComponentCreator('/faustmann-wiki/blog/authors/yangshun', '4e4'),
+    path: '/faustmann-wiki/blog/authors/tbartsch',
+    component: ComponentCreator('/faustmann-wiki/blog/authors/tbartsch', '0ff'),
     exact: true
   },
   {
-    path: '/faustmann-wiki/blog/first-blog-post',
-    component: ComponentCreator('/faustmann-wiki/blog/first-blog-post', '857'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/blog/long-blog-post',
-    component: ComponentCreator('/faustmann-wiki/blog/long-blog-post', '72c'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/blog/mdx-blog-post',
-    component: ComponentCreator('/faustmann-wiki/blog/mdx-blog-post', '52c'),
+    path: '/faustmann-wiki/blog/Mappei Profil in Findentity',
+    component: ComponentCreator('/faustmann-wiki/blog/Mappei Profil in Findentity', '3cc'),
     exact: true
   },
   {
@@ -48,28 +73,13 @@ export default [
     exact: true
   },
   {
-    path: '/faustmann-wiki/blog/tags/docusaurus',
-    component: ComponentCreator('/faustmann-wiki/blog/tags/docusaurus', '09a'),
+    path: '/faustmann-wiki/blog/tags/findentity',
+    component: ComponentCreator('/faustmann-wiki/blog/tags/findentity', 'e99'),
     exact: true
   },
   {
-    path: '/faustmann-wiki/blog/tags/facebook',
-    component: ComponentCreator('/faustmann-wiki/blog/tags/facebook', '36a'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/blog/tags/hello',
-    component: ComponentCreator('/faustmann-wiki/blog/tags/hello', 'de3'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/blog/tags/hola',
-    component: ComponentCreator('/faustmann-wiki/blog/tags/hola', '3fe'),
-    exact: true
-  },
-  {
-    path: '/faustmann-wiki/blog/welcome',
-    component: ComponentCreator('/faustmann-wiki/blog/welcome', '266'),
+    path: '/faustmann-wiki/blog/tags/mappei',
+    component: ComponentCreator('/faustmann-wiki/blog/tags/mappei', 'fde'),
     exact: true
   },
   {
@@ -84,79 +94,67 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', 'd56'),
+    component: ComponentCreator('/faustmann-wiki/docs', 'c93'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', 'fd5'),
+        component: ComponentCreator('/faustmann-wiki/docs', 'b15'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', '11c'),
+            component: ComponentCreator('/faustmann-wiki/docs', '6e0'),
             routes: [
               {
-                path: '/faustmann-wiki/docs/category/tutorial---basics',
-                component: ComponentCreator('/faustmann-wiki/docs/category/tutorial---basics', '7f5'),
+                path: '/faustmann-wiki/docs/ecomofa2rent/Mikro',
+                component: ComponentCreator('/faustmann-wiki/docs/ecomofa2rent/Mikro', '15a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/category/tutorial---extras',
-                component: ComponentCreator('/faustmann-wiki/docs/category/tutorial---extras', '755'),
+                path: '/faustmann-wiki/docs/Findentity/Findentity Grundlagen/Findentity Module',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Grundlagen/Findentity Module', 'a9c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/intro/',
-                component: ComponentCreator('/faustmann-wiki/docs/intro/', 'f42'),
+                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Branchenübersicht',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Branchenübersicht', '4b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/faustmann-wiki/docs/tutorial-basics/congratulations', '02b'),
+                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Gutachter',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Gutachter', 'a19'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/faustmann-wiki/docs/tutorial-basics/create-a-blog-post', '827'),
+                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Kontakte',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Kontakte', '7c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/faustmann-wiki/docs/tutorial-basics/create-a-document', '437'),
+                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Mappei DMS',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Mappei DMS', '669'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/faustmann-wiki/docs/tutorial-basics/create-a-page', 'a9c'),
+                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Projektmanagement',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Projektmanagement', '641'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/faustmann-wiki/docs/tutorial-basics/deploy-your-site', 'ac8'),
+                path: '/faustmann-wiki/docs/Findentity/intro',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/intro', '5e5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/faustmann-wiki/docs/tutorial-basics/markdown-features', 'd36'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/faustmann-wiki/docs/tutorial-extras/manage-docs-versions', 'cd0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/faustmann-wiki/docs/tutorial-extras/translate-your-site', '62a'),
+                path: '/faustmann-wiki/docs/markdown',
+                component: ComponentCreator('/faustmann-wiki/docs/markdown', 'e77'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

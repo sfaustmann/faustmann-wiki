@@ -1,6 +1,5 @@
 {
   "permalink": "/faustmann-wiki/blog/mdx-blog-post",
-  "editUrl": "https://github.com/sfaustmann/faustmann-wiki/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
   "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -45,8 +44,8 @@
   },
   "unlisted": false,
   "prevItem": {
-    "title": "Welcome",
-    "permalink": "/faustmann-wiki/blog/welcome"
+    "title": "Mappei System in Findentity",
+    "permalink": "/faustmann-wiki/blog/Mappei System in Findentity"
   },
   "nextItem": {
     "title": "Long Blog Post",

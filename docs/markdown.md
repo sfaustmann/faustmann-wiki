@@ -1,6 +1,6 @@
 ---
-title: Basic Markdown
-sidebar_position: 1
+title: Markdown Grundlagen
+sidebar_position: 4
 ---
 
 # Heading 1
