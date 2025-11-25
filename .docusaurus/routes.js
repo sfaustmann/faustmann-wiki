@@ -59,19 +59,25 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', 'c93'),
+    component: ComponentCreator('/faustmann-wiki/docs', 'ad5'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', 'b15'),
+        component: ComponentCreator('/faustmann-wiki/docs', '9b7'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', '6e0'),
+            component: ComponentCreator('/faustmann-wiki/docs', 'bc0'),
             routes: [
               {
                 path: '/faustmann-wiki/docs/ecomofa2rent/Mikro',
                 component: ComponentCreator('/faustmann-wiki/docs/ecomofa2rent/Mikro', '15a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/Findentity/einführung',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/einführung', 'a67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -112,8 +118,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity/intro',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/intro', '5e5'),
+                path: '/faustmann-wiki/docs/intro',
+                component: ComponentCreator('/faustmann-wiki/docs/intro', 'b6e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

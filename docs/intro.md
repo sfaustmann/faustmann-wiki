@@ -1,5 +1,5 @@
 ---
-title: Findentity Überblick
+title: Dokumentation Überblick
 sidebar_position: 1
 ---
 
@@ -8,7 +8,7 @@ sidebar_position: 1
 ## Moderne Komplettlösungen für Ihr Büromanagement
 #### Erhöhen Sie Ihre Produktivität und Effizienz am Arbeitsplatz mit unseren modularen Büromanagement-Lösungen.
 
-- [Dokumenten-Management (DMS)](./ecomofa2rent/Mikro)
+- Dokumenten-Management (DMS)
 - Kunden-Management (CRM)
 - Spracherkennung
 - Diktat-Management
@@ -17,4 +17,3 @@ sidebar_position: 1
 - Aktenortung
 - Inventarisierung
 
-[test](./ecomofa2rent/Mikro)

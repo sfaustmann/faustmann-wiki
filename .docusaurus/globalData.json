@@ -8,11 +8,16 @@
           "label": "Next",
           "isLast": true,
           "path": "/faustmann-wiki/docs",
-          "mainDocId": "markdown",
+          "mainDocId": "intro",
           "docs": [
             {
               "id": "ecomofa2rent/Mikro",
               "path": "/faustmann-wiki/docs/ecomofa2rent/Mikro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Findentity/einführung",
+              "path": "/faustmann-wiki/docs/Findentity/einführung",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -46,8 +51,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Findentity/intro",
-              "path": "/faustmann-wiki/docs/Findentity/intro",
+              "id": "intro",
+              "path": "/faustmann-wiki/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -60,8 +65,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/faustmann-wiki/docs/markdown",
-                "label": "markdown"
+                "path": "/faustmann-wiki/docs/intro",
+                "label": "intro"
               }
             }
           }
