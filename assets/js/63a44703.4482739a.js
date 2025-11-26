@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfaustmann_wiki=globalThis.webpackChunkfaustmann_wiki||[]).push([[6801],{6445:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/faustmann-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

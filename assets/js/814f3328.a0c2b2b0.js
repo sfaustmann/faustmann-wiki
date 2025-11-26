@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfaustmann_wiki=globalThis.webpackChunkfaustmann_wiki||[]).push([[7472],{5513:i=>{i.exports=JSON.parse('{"title":"Letzte Beitr\xe4ge","items":[{"title":"Mappei Profil in Findentity","permalink":"/faustmann-wiki/blog/Mappei Profil in Findentity","unlisted":false,"date":"2025-11-14T00:00:00.000Z"}]}')}}]);
