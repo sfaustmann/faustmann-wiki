@@ -1,17 +1,17 @@
 {
-  "defaultLocale": "en",
+  "defaultLocale": "de",
   "locales": [
-    "en"
+    "de"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "de",
   "localeConfigs": {
-    "en": {
-      "label": "English",
+    "de": {
+      "label": "Deutsch",
       "direction": "ltr",
-      "htmlLang": "en",
+      "htmlLang": "de",
       "calendar": "gregory",
-      "path": "en",
+      "path": "de",
       "translate": false,
       "url": "https://sfaustmann.github.io",
       "baseUrl": "/faustmann-wiki/"

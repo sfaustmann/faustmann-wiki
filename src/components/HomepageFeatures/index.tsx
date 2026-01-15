@@ -11,21 +11,20 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Universell einsetzbar',
+    title: 'Universelle Dokumentenmanagementlösung',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Findentity ist die Bürolösung, die universell einsetzbar ist.
+        Mit Findentity haben Sie Ihre Dokumente im Griff. Sowohl während der Bearbeitung, als auch bei der Ablage. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Sprechen statt schreiben',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Diktieren Sie einfach, was Sie zu schreiben haben. Nutzen Sie Spracherkennung, damit es noch schneller geht. 
       </>
     ),
   },

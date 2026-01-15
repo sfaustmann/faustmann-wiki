@@ -35,9 +35,9 @@ export default {
   "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "de",
     "locales": [
-      "en"
+      "de"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -155,7 +155,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Faustmann UG"
+      "copyright": "Copyright © 2026 Faustmann UG"
     },
     "prism": {
       "theme": {

@@ -1,0 +1,309 @@
+[
+  {
+    "sid": "/installation",
+    "title": "Installation",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/voraussetzungen",
+        "title": "Voraussetzungen",
+        "level": 2,
+        "parent": "/installation",
+        "children": []
+      },
+      {
+        "sid": "/hinweise-zu-standalone-clients",
+        "title": "Hinweise zu Standalone-Clients",
+        "level": 2,
+        "parent": "/installation",
+        "children": []
+      },
+      {
+        "sid": "/installation-des-standalone-clients-am-pc",
+        "title": "Installation des Standalone-Clients am PC",
+        "level": 2,
+        "parent": "/installation",
+        "children": [
+          {
+            "sid": "/1-laden-sie-die-von-ihnen-benötigte-variante-dmo-dpa-dla-des-clients-hier-herunter-httpsdownloadthaxdesnx7gzn8fwd78iep",
+            "title": "1. Laden Sie die von Ihnen benötigte Variante (DMO, DPA, DLA) des Clients hier herunter: https://download.thax.de/s/NX7gZN8FWD78ieP",
+            "level": 3,
+            "parent": "/installation-des-standalone-clients-am-pc",
+            "children": []
+          },
+          {
+            "sid": "/2-machen-nach-dem-download-einen-rechtsklick-auf-die-heruntergeladene-zip-datei-und-wählen-sie-eigenschaften-setzen-sie-rechts-unten-einen-haken-vor-zulassen",
+            "title": "2. Machen nach dem Download einen Rechtsklick auf die heruntergeladene ZIP-Datei und wählen Sie „Eigenschaften”. Setzen Sie rechts unten einen Haken vor „Zulassen”.",
+            "level": 3,
+            "parent": "/installation-des-standalone-clients-am-pc",
+            "children": []
+          },
+          {
+            "sid": "/3-entpacken-sie-die-heruntergeladene-zip-datei-an-einen-ort-ihrer-wahl",
+            "title": "3. Entpacken Sie die heruntergeladene zip-Datei an einen Ort Ihrer Wahl.",
+            "level": 3,
+            "parent": "/installation-des-standalone-clients-am-pc",
+            "children": []
+          },
+          {
+            "sid": "/4-suchen-sie-im-entpackten-verzeichnis-nach-der-datei-sodexe-machen-sie-einen-rechtsklick-auf-die-datei-und-wählen-sie-senden-an-desktop-verknüpfung-erstellen",
+            "title": "4. Suchen Sie im entpackten Verzeichnis nach der Datei SoD.exe, machen Sie einen Rechtsklick auf die Datei und wählen Sie „Senden an Desktop (Verknüpfung erstellen)”.",
+            "level": 3,
+            "parent": "/installation-des-standalone-clients-am-pc",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/installation-in-einer-terminalserver-umgebung",
+        "title": "Installation in einer Terminalserver-Umgebung",
+        "level": 2,
+        "parent": "/installation",
+        "children": [
+          {
+            "sid": "/1-der-standalone-client-wird-auf-dem-terminalserver-bzw-citrix-server-installiert-so-unterstützt-werden-windows-server-2016-2019-2022-die-extensions-für-den-nuance-eigenen-audiokanal-bzw-für-die-tastenumleitungen-von-diktiermikrofonen-sind-in-dem-standalone-client-enthalten-somit-muss-auf-dem-server-keine-extra-software-installiert-werden",
+            "title": "1. Der Standalone-Client wird auf dem Terminalserver bzw. Citrix-Server installiert, s.o. Unterstützt werden Windows Server 2016, 2019, 2022. Die Extensions für den Nuance-eigenen Audiokanal bzw. für die Tastenumleitungen von Diktiermikrofonen sind in dem Standalone-Client enthalten, somit muss auf dem Server keine extra Software installiert werden.",
+            "level": 3,
+            "parent": "/installation-in-einer-terminalserver-umgebung",
+            "children": []
+          },
+          {
+            "sid": "/2-wir-empfehlen-die-nuance-virtual-extensions-für-rds--citrix--oder-vmware-clients-auf-dem-rechner-zu-installieren-an-dem-sie-ihr-mikrofon-angeschlossen-haben-damit-die-software-diesen-bandbreitenoptimierten-eigenen-audiokanal-anstelle-vom-herkömmlichen-remoteaudio-verwenden-kann-die-installationspakete-stehen-unter-httpsdragonmedicalonenuancedestandalonedragonmedicalonepills-virtual-zur-verfügung-und-können-bei-bedarf-als-silent-installation-ausgeführt-werden-details-finden-sie-in-den-nuanceconfig_depdf-dokumenten-die-den-paketen-beigelegt-sind",
+            "title": "2. Wir empfehlen, die Nuance Virtual Extensions für RDS-, Citrix- oder VMWare-Clients auf dem Rechner zu installieren, an dem Sie Ihr Mikrofon angeschlossen haben, damit die Software diesen bandbreitenoptimierten eigenen Audiokanal anstelle vom herkömmlichen Remoteaudio verwenden kann. Die Installationspakete stehen unter https://dragonmedicalone.nuance.de/StandAlone/dragonmedicalone#pills-virtual zur Verfügung und können bei Bedarf als Silent-Installation ausgeführt werden. Details finden Sie in den „Nuance…Config_DE.pdf“ Dokumenten, die den Paketen beigelegt sind.",
+            "level": 3,
+            "parent": "/installation-in-einer-terminalserver-umgebung",
+            "children": []
+          },
+          {
+            "sid": "/3-sofern-sie-ein-diktiermikrofon-von-nuance-grundig-oder-philips-verwenden-welches-nicht-für-den-tastaturmodus-konfiguriert-ist-sollten-sie-zusätzlich-noch-die-entsprechenden-gerätetreiber-der-hersteller-installieren-sie-bekommen-diese-ebenfalls-unter-dem-unter-nr-2-genannten-link-es-werden-die-client-betriebssysteme-windows-10-und-windows-11-unterstützt-stand-november-2023",
+            "title": "3. Sofern Sie ein Diktiermikrofon von NUANCE, GRUNDIG oder PHILIPS verwenden, welches nicht für den Tastaturmodus konfiguriert ist, sollten Sie zusätzlich noch die entsprechenden Gerätetreiber der Hersteller installieren. Sie bekommen diese ebenfalls unter dem unter Nr. 2 genannten Link. Es werden die Client-Betriebssysteme Windows 10 und Windows 11 unterstützt (Stand November 2023).",
+            "level": 3,
+            "parent": "/installation-in-einer-terminalserver-umgebung",
+            "children": []
+          },
+          {
+            "sid": "/4-nutzen-sie-nicht-den-nuance-eigenen-audiokanal-müssen-sie-die-remoteaudioeinstellungen-konfigurieren-folgende-einstellungen-sind-bei-der-microsoft-remotedesktopverbindung-vorzunehmen---für-citrix-müssen-die-einstellungen-von-ihrem-admin-vorgenommen-werden",
+            "title": "4. Nutzen Sie nicht den Nuance-eigenen Audiokanal, müssen Sie die Remoteaudioeinstellungen konfigurieren. Folgende Einstellungen sind bei der Microsoft-Remotedesktopverbindung vorzunehmen - für Citrix müssen die Einstellungen von Ihrem Admin vorgenommen werden:",
+            "level": 3,
+            "parent": "/installation-in-einer-terminalserver-umgebung",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/mikrofon-datenschutzeinstellungen",
+        "title": "Mikrofon-Datenschutzeinstellungen",
+        "level": 2,
+        "parent": "/installation",
+        "children": [
+          {
+            "sid": "/windows-10",
+            "title": "Windows 10",
+            "level": 3,
+            "parent": "/mikrofon-datenschutzeinstellungen",
+            "children": []
+          },
+          {
+            "sid": "/windows-11",
+            "title": "Windows 11",
+            "level": 3,
+            "parent": "/mikrofon-datenschutzeinstellungen",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "/programmstart",
+    "title": "Programmstart",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/anmeldung",
+        "title": "Anmeldung",
+        "level": 2,
+        "parent": "/programmstart",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/android-und-ios-apps",
+    "title": "Android und iOS Apps",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/powermic-mobile-nur-für-dmo",
+        "title": "PowerMic Mobile (nur für DMO)",
+        "level": 2,
+        "parent": "/android-und-ios-apps",
+        "children": [
+          {
+            "sid": "/1-starten-sie-zuerst-dmo-auf-dem-pc-und-loggen-sie-sich-mit-ihren-zugangsdaten-ein-wählen-sie-als-diktierquelle-powermic-mobile-aus",
+            "title": "1. Starten Sie zuerst DMO auf dem PC und loggen Sie sich mit Ihren Zugangsdaten ein. Wählen Sie als Diktierquelle „PowerMic Mobile“ aus.",
+            "level": 3,
+            "parent": "/powermic-mobile-nur-für-dmo",
+            "children": []
+          },
+          {
+            "sid": "/2-installieren-sie-auf-ihrem-smartphone-pmm-über-google-play-bzw-den-apple-app-store-sie-dürfen-die-app-dann-zunächst-nicht-öffnen-sondern-müssen-zuerst-folgenden-qr-code-auf-dem-mobilgerät-scannen-und-den-dann-angezeigten-link-mit-der-pmm-app-öffnen",
+            "title": "2. Installieren Sie auf Ihrem Smartphone PMM über Google Play bzw. den Apple App Store. Sie dürfen die App dann zunächst nicht öffnen, sondern müssen zuerst folgenden QR-Code auf dem Mobilgerät scannen und den dann angezeigten Link mit der PMM-App öffnen:",
+            "level": 3,
+            "parent": "/powermic-mobile-nur-für-dmo",
+            "children": []
+          },
+          {
+            "sid": "/3-melden-sie-sich-dann-im-pmm-mit-ihrem-benutzernamen-an-die-verbindung-zu-dmo-auf-ihrem-pc-wird-hergestellt",
+            "title": "3. Melden Sie sich dann im PMM mit Ihrem Benutzernamen an. Die Verbindung zu DMO auf Ihrem PC wird hergestellt.",
+            "level": 3,
+            "parent": "/powermic-mobile-nur-für-dmo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/dragon-anywhere-mobile-nur-für-dpa--dla",
+        "title": "Dragon Anywhere Mobile (nur für DPA / DLA)",
+        "level": 2,
+        "parent": "/android-und-ios-apps",
+        "children": [
+          {
+            "sid": "/einrichtung-für-dragon-anywhere-mobile-bei-verwendung-der-telekom-cloud",
+            "title": "Einrichtung für Dragon Anywhere Mobile bei Verwendung der Telekom Cloud",
+            "level": 3,
+            "parent": "/dragon-anywhere-mobile-nur-für-dpa--dla",
+            "children": []
+          },
+          {
+            "sid": "/einrichtung-für-dragon-anywhere-mobile-bei-verwendung-der-microsoft-azure-cloud",
+            "title": "Einrichtung für Dragon Anywhere Mobile bei Verwendung der Microsoft Azure Cloud",
+            "level": 3,
+            "parent": "/dragon-anywhere-mobile-nur-für-dpa--dla",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "/kurzanleitung-zur-bedienung",
+    "title": "Kurzanleitung zur Bedienung",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/dragon-leiste",
+        "title": "Dragon-Leiste",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung",
+        "children": []
+      },
+      {
+        "sid": "/tipps-für-das-diktieren",
+        "title": "Tipps für das Diktieren",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung",
+        "children": []
+      },
+      {
+        "sid": "/befehle",
+        "title": "Befehle",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung",
+        "children": []
+      },
+      {
+        "sid": "/tastenkürzel",
+        "title": "Tastenkürzel",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung",
+        "children": []
+      },
+      {
+        "sid": "/diktierfenster",
+        "title": "Diktierfenster",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung",
+        "children": [
+          {
+            "sid": "/1-sagen-sie-text-übertragen",
+            "title": "1. Sagen Sie „Text übertragen“.",
+            "level": 3,
+            "parent": "/diktierfenster",
+            "children": []
+          },
+          {
+            "sid": "/2-drücken-sie-die-in-den-optionen-unter-tastenkürzel-festgelegte-tastenkombination-standardmäßig-strg--umsch--t",
+            "title": "2. Drücken Sie die in den Optionen unter „Tastenkürzel“ festgelegte Tastenkombination, standardmäßig Strg + Umsch + T.",
+            "level": 3,
+            "parent": "/diktierfenster",
+            "children": []
+          },
+          {
+            "sid": "/3-verwenden-sie-ein-diktiermikrofon-können-sie-dort-die-entsprechend-konfigurierte-taste-drücken-beim-speechmike-ist-dies-standardmäßig-die-eol-taste",
+            "title": "3. Verwenden Sie ein Diktiermikrofon, können Sie dort die entsprechend konfigurierte Taste drücken. Beim SpeechMike ist dies standardmäßig die EOL-Taste.",
+            "level": 3,
+            "parent": "/diktierfenster",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/korrigieren-von-fehlern",
+        "title": "Korrigieren von Fehlern",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung",
+        "children": [
+          {
+            "sid": "/beispiel-zum-korrigieren",
+            "title": "Beispiel zum Korrigieren",
+            "level": 3,
+            "parent": "/korrigieren-von-fehlern",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/vokabular-bearbeiten",
+        "title": "Vokabular bearbeiten",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung",
+        "children": []
+      },
+      {
+        "sid": "/formatierungen-verwalten-nur-für-dmo",
+        "title": "Formatierungen verwalten (nur für DMO)",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/hilfreiche-links",
+    "title": "Hilfreiche Links",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/erklärvideos",
+        "title": "Erklärvideos",
+        "level": 2,
+        "parent": "/hilfreiche-links",
+        "children": []
+      },
+      {
+        "sid": "/administrator-ressourcen",
+        "title": "Administrator-Ressourcen",
+        "level": 2,
+        "parent": "/hilfreiche-links",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/bei-fragen",
+    "title": "Bei Fragen...",
+    "level": 1,
+    "children": []
+  }
+]

@@ -8,13 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/faustmann-wiki/docs",
-          "mainDocId": "intro",
+          "mainDocId": "markdown",
           "docs": [
-            {
-              "id": "ecomofa2rent/Mikro",
-              "path": "/faustmann-wiki/docs/ecomofa2rent/Mikro",
-              "sidebar": "tutorialSidebar"
-            },
             {
               "id": "Findentity/einführung",
               "path": "/faustmann-wiki/docs/Findentity/einführung",
@@ -23,6 +18,11 @@
             {
               "id": "Findentity/Findentity Grundlagen/Findentity Module",
               "path": "/faustmann-wiki/docs/Findentity/Findentity Grundlagen/Findentity Module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Findentity/Findentity Grundlagen/transformed_doc/Anleitung für cloudbasierte Nuance-Spracherkennung",
+              "path": "/faustmann-wiki/docs/Findentity/Findentity Grundlagen/transformed_doc/Anleitung für cloudbasierte Nuance-Spracherkennung",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -65,8 +65,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/faustmann-wiki/docs/intro",
-                "label": "intro"
+                "path": "/faustmann-wiki/docs/markdown",
+                "label": "markdown"
               }
             }
           }

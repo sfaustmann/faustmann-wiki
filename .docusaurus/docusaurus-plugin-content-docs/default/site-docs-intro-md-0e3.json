@@ -10,14 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 8,
   "frontMatter": {
     "title": "Dokumentation Überblick",
-    "sidebar_position": 1
+    "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
-  "next": {
+  "previous": {
     "title": "Markdown Grundlagen",
     "permalink": "/faustmann-wiki/docs/markdown"
+  },
+  "next": {
+    "title": "Findentity Überblick",
+    "permalink": "/faustmann-wiki/docs/Findentity/einführung"
   }
 }

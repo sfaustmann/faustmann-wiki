@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/faustmann-wiki/__docusaurus/debug',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug', '46e'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/config',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/config', '75c'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/content',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/content', '2c9'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/globalData',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/globalData', 'f07'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/metadata',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/metadata', '858'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/registry',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/registry', 'df9'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/routes',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/routes', '599'),
+    exact: true
+  },
+  {
     path: '/faustmann-wiki/blog',
     component: ComponentCreator('/faustmann-wiki/blog', '9e9'),
     exact: true
@@ -59,22 +94,16 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', 'ad5'),
+    component: ComponentCreator('/faustmann-wiki/docs', 'dd8'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', '9b7'),
+        component: ComponentCreator('/faustmann-wiki/docs', 'a1d'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', 'bc0'),
+            component: ComponentCreator('/faustmann-wiki/docs', 'ab8'),
             routes: [
-              {
-                path: '/faustmann-wiki/docs/ecomofa2rent/Mikro',
-                component: ComponentCreator('/faustmann-wiki/docs/ecomofa2rent/Mikro', '15a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/faustmann-wiki/docs/Findentity/einführung',
                 component: ComponentCreator('/faustmann-wiki/docs/Findentity/einführung', 'a67'),
@@ -84,6 +113,12 @@ export default [
               {
                 path: '/faustmann-wiki/docs/Findentity/Findentity Grundlagen/Findentity Module',
                 component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Grundlagen/Findentity Module', 'a9c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/Findentity/Findentity Grundlagen/transformed_doc/Anleitung für cloudbasierte Nuance-Spracherkennung',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Grundlagen/transformed_doc/Anleitung für cloudbasierte Nuance-Spracherkennung', 'd71'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

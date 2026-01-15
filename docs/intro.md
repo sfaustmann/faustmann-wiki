@@ -1,6 +1,6 @@
 ---
 title: Dokumentation Überblick
-sidebar_position: 1
+sidebar_position: 8
 ---
 
 ### Eine neue Dimension der digitalen Büroverwaltung
