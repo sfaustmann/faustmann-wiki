@@ -1,0 +1,101 @@
+[
+  {
+    "sid": "/vorwort-und-empfehlung-geeigneter-web-browser",
+    "title": "Vorwort und Empfehlung geeigneter Web-Browser",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/dragon-weberweiterung-für-dragon-professional-group-dpg-und-dragon-legal-group-dlg-ab-v1571-sowie-dragon-professional-v16-und-dragon-legal-v16",
+    "title": "Dragon Weberweiterung für Dragon Professional Group (DPG) und Dragon Legal Group (DLG) ab v15.7.1 sowie Dragon Professional v16 und Dragon Legal v16",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/beschreibung-des-add-on",
+        "title": "Beschreibung des Add-On",
+        "level": 2,
+        "parent": "/dragon-weberweiterung-für-dragon-professional-group-dpg-und-dragon-legal-group-dlg-ab-v1571-sowie-dragon-professional-v16-und-dragon-legal-v16",
+        "children": [
+          {
+            "sid": "/installation-in-microsoft-edge",
+            "title": "Installation in Microsoft Edge",
+            "level": 3,
+            "parent": "/beschreibung-des-add-on",
+            "children": []
+          },
+          {
+            "sid": "/installation-in-google-chrome",
+            "title": "Installation in Google Chrome",
+            "level": 3,
+            "parent": "/beschreibung-des-add-on",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "/dragon-weberweiterung-für-dragon-medical-one-dmo-dragon-medical-direct-dmd-dragon-professional-anywhere-dpa-dragon-legal-anywhere-dla",
+    "title": "Dragon Weberweiterung für Dragon Medical One (DMO), Dragon Medical Direct (DMD), Dragon Professional Anywhere (DPA), Dragon Legal Anywhere (DLA)",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/beschreibung-des-add-on-1",
+        "title": "Beschreibung des Add-On",
+        "level": 2,
+        "parent": "/dragon-weberweiterung-für-dragon-medical-one-dmo-dragon-medical-direct-dmd-dragon-professional-anywhere-dpa-dragon-legal-anywhere-dla",
+        "children": [
+          {
+            "sid": "/installation-in-microsoft-edge-1",
+            "title": "Installation in Microsoft Edge",
+            "level": 3,
+            "parent": "/beschreibung-des-add-on-1",
+            "children": []
+          },
+          {
+            "sid": "/installation-in-google-chrome-1",
+            "title": "Installation in Google Chrome",
+            "level": 3,
+            "parent": "/beschreibung-des-add-on-1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "/nuance-ehri-web-extension--dmo-integration-für-web-basierte-elektronische-gesundheitsaktensysteme-wie-meditech-und-athena",
+    "title": "Nuance EHRi Web Extension – DMO Integration für web-basierte elektronische Gesundheitsaktensysteme wie Meditech und Athena",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/beschreibung-des-add-on-2",
+        "title": "Beschreibung des Add-On",
+        "level": 2,
+        "parent": "/nuance-ehri-web-extension--dmo-integration-für-web-basierte-elektronische-gesundheitsaktensysteme-wie-meditech-und-athena",
+        "children": [
+          {
+            "sid": "/installation-in-microsoft-edge-2",
+            "title": "Installation in Microsoft Edge",
+            "level": 3,
+            "parent": "/beschreibung-des-add-on-2",
+            "children": []
+          },
+          {
+            "sid": "/installation-in-google-chrome-2",
+            "title": "Installation in Google Chrome",
+            "level": 3,
+            "parent": "/beschreibung-des-add-on-2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "/kontakt",
+    "title": "Kontakt",
+    "level": 1,
+    "children": []
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "sid": "/generelle-hinweise-zum-diktieren-mit-der-dragon-front-end-spracherkennung-und-der-findentity-back-end-spracherkennung",
+    "title": "Generelle Hinweise zum Diktieren mit der Dragon Front-End Spracherkennung und der Findentity Back-End Spracherkennung",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+    "title": "Wichtige Befehle für die Dragon Front-End Spracherkennung und für die Findentity Dictate Back-End Spracherkennung",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/absätze-und-leerzeichen-erstellen",
+        "title": "Absätze und Leerzeichen erstellen",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/buchstaben-groß--und-kleinschreibung",
+        "title": "Buchstaben, Groß- und Kleinschreibung",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/interpunktionszeichen",
+        "title": "Interpunktionszeichen",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/sonderzeichen",
+        "title": "Sonderzeichen",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/zahlen",
+        "title": "Zahlen",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/währungen",
+        "title": "Währungen",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/datumsangaben",
+        "title": "Datumsangaben",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/uhrzeiten",
+        "title": "Uhrzeiten",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/telefonnummern",
+        "title": "Telefonnummern",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/römische-zahlen",
+        "title": "Römische Zahlen",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/abkürzungen-und-akronyme",
+        "title": "Abkürzungen und Akronyme",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/wortzusammensetzungen-mit-bindestrichen",
+        "title": "Wortzusammensetzungen mit Bindestrichen",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/e-mail--und-web-adressen",
+        "title": "E-Mail- und Web-Adressen",
+        "level": 2,
+        "parent": "/wichtige-befehle-für-die-dragon-front-end-spracherkennung-und-für-die-findentity-dictate-back-end-spracherkennung",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/wichtige-bedienkommandos-ausschließlich-für-die-front-end-spracherkennung-mit-nuance-dragon",
+    "title": "Wichtige Bedienkommandos ausschließlich für die Front-End Spracherkennung mit Nuance Dragon",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/navigieren-und-formatieren",
+    "title": "Navigieren und Formatieren",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/verschiedenes",
+        "title": "Verschiedenes",
+        "level": 2,
+        "parent": "/navigieren-und-formatieren",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/cursor-bewegen--dragon-front-end-spracherkennung",
+    "title": "Cursor bewegen – Dragon Front-End Spracherkennung",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/zeichenweise",
+        "title": "Zeichenweise",
+        "level": 2,
+        "parent": "/cursor-bewegen--dragon-front-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/wortweise",
+        "title": "Wortweise",
+        "level": 2,
+        "parent": "/cursor-bewegen--dragon-front-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/zeilenweise",
+        "title": "Zeilenweise",
+        "level": 2,
+        "parent": "/cursor-bewegen--dragon-front-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/absatzweise",
+        "title": "Absatzweise",
+        "level": 2,
+        "parent": "/cursor-bewegen--dragon-front-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/zu-bestimmten-wörtern--ausdrücken",
+        "title": "Zu bestimmten Wörtern / Ausdrücken",
+        "level": 2,
+        "parent": "/cursor-bewegen--dragon-front-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/zu-anfang-und-ende-von-zeilen-und-dokumenten",
+        "title": "Zu Anfang und Ende von Zeilen und Dokumenten",
+        "level": 2,
+        "parent": "/cursor-bewegen--dragon-front-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/zur-vorherigen-cursorposition",
+        "title": "Zur vorherigen Cursorposition",
+        "level": 2,
+        "parent": "/cursor-bewegen--dragon-front-end-spracherkennung",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/text-markieren--dragon-front-end-spracherkennung",
+    "title": "Text markieren – Dragon Front-End Spracherkennung",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/bestimmte-wörter-und-ausdrücke-markieren",
+        "title": "Bestimmte Wörter und Ausdrücke markieren",
+        "level": 2,
+        "parent": "/text-markieren--dragon-front-end-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/teile-eines-dokuments-markieren",
+        "title": "Teile eines Dokuments markieren",
+        "level": 2,
+        "parent": "/text-markieren--dragon-front-end-spracherkennung",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/text-wiederholt-markieren--dragon-front-end-spracherkennung",
+    "title": "Text wiederholt markieren – Dragon Front-End Spracherkennung",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/formatieren",
+        "title": "Formatieren",
+        "level": 2,
+        "parent": "/text-wiederholt-markieren--dragon-front-end-spracherkennung",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/kontakt",
+    "title": "Kontakt",
+    "level": 1,
+    "children": []
+  }
+]

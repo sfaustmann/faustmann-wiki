@@ -1,167 +1,226 @@
 {
-  "/faustmann-wiki/blog-9e9": {
-    "__comp": "a6aa9e1f",
+  "/faustmann-wiki/__docusaurus/debug-46e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
+    }
+  },
+  "/faustmann-wiki/__docusaurus/debug/config-75c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
+    }
+  },
+  "/faustmann-wiki/__docusaurus/debug/content-2c9": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
     },
-    "sidebar": "814f3328",
+    "__props": "__props---faustmann-wiki-docusaurus-debug-contentd-52-f33"
+  },
+  "/faustmann-wiki/__docusaurus/debug/globalData-f07": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
+    }
+  },
+  "/faustmann-wiki/__docusaurus/debug/metadata-858": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
+    }
+  },
+  "/faustmann-wiki/__docusaurus/debug/registry-df9": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
+    }
+  },
+  "/faustmann-wiki/__docusaurus/debug/routes-599": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---faustmann-wiki-docusaurus-debugb-38-fdc"
+    }
+  },
+  "/faustmann-wiki/blog-9e9": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
+    },
+    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
     "items": [
       {
-        "content": "57084ca1"
+        "content": "content---faustmann-wiki-blog-570-728"
       }
     ],
-    "__props": "63a44703"
+    "__props": "__props---faustmann-wiki-blog-63-a-81a"
   },
   "/faustmann-wiki/blog/archive-bd5": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
     },
-    "__props": "3a09de47"
+    "__props": "__props---faustmann-wiki-blog-archive-3-a-0-43b"
   },
   "/faustmann-wiki/blog/authors-c74": {
-    "__comp": "621db11d",
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
     },
-    "sidebar": "814f3328",
-    "__props": "5b9c2791"
+    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "__props": "__props---faustmann-wiki-blog-authors-5-b-9-1b4"
   },
   "/faustmann-wiki/blog/authors/sfaustmann-327": {
-    "__comp": "33fc5bb8",
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
     },
     "items": [
       {
-        "content": "57084ca1"
+        "content": "content---faustmann-wiki-blog-570-728"
       }
     ],
-    "sidebar": "814f3328",
-    "__props": "dd99ad1c"
+    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "__props": "__props---faustmann-wiki-blog-authors-sfaustmanndd-9-b43"
   },
   "/faustmann-wiki/blog/authors/tbartsch-0ff": {
-    "__comp": "33fc5bb8",
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
     },
     "items": [],
-    "sidebar": "814f3328",
-    "__props": "7109b9aa"
+    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "__props": "__props---faustmann-wiki-blog-authors-tbartsch-710-087"
   },
   "/faustmann-wiki/blog/Mappei Profil in Findentity-3cc": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---faustmann-wiki-blog-authorsace-c24"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
     },
-    "sidebar": "814f3328",
-    "content": "60729cca"
+    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "content": "content---faustmann-wiki-blog-mappei-profil-in-findentity-607-c6b"
   },
   "/faustmann-wiki/blog/tags-4fa": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
     },
-    "sidebar": "814f3328",
-    "__props": "b80ff85b"
+    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
+    "__props": "__props---faustmann-wiki-blog-tagsb-80-d5c"
   },
   "/faustmann-wiki/blog/tags/findentity-e99": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
     "items": [
       {
-        "content": "57084ca1"
+        "content": "content---faustmann-wiki-blog-570-728"
       }
     ],
-    "__props": "b1482c4d"
+    "__props": "__props---faustmann-wiki-blog-tags-findentityb-14-4e3"
   },
   "/faustmann-wiki/blog/tags/mappei-fde": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---faustmann-wiki-blog-369-7bf"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---faustmann-wiki-blog-814-482",
     "items": [
       {
-        "content": "57084ca1"
+        "content": "content---faustmann-wiki-blog-570-728"
       }
     ],
-    "__props": "a7abbe01"
+    "__props": "__props---faustmann-wiki-blog-tags-mappeia-7-a-0bf"
   },
   "/faustmann-wiki/markdown-page-cc6": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---faustmann-wiki-markdown-pagea-74-488"
     },
-    "content": "393be207"
+    "content": "content---faustmann-wiki-markdown-page-393-0ad"
   },
   "/faustmann-wiki/search-758": {
-    "__comp": "1a4e3797",
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
-      "plugin": "138e0e15"
+      "plugin": "plugin---faustmann-wiki-search-138-79a"
     }
   },
-  "/faustmann-wiki/docs-1ef": {
-    "__comp": "5e95c892",
+  "/faustmann-wiki/docs-1cd": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---faustmann-wiki-docsaba-11a"
     }
   },
-  "/faustmann-wiki/docs-fa0": {
-    "__comp": "a7bd4aaa",
-    "__props": "be26d934"
+  "/faustmann-wiki/docs-bc4": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---faustmann-wiki-docsbe-2-a0c"
   },
-  "/faustmann-wiki/docs-8f9": {
-    "__comp": "a94703ab"
+  "/faustmann-wiki/docs-8cc": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/faustmann-wiki/docs/Dragon Schulung/200+ beste Befehle für Spracherkennung-f11": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-dragon-schulung-200-beste-befehle-fur-spracherkennungfb-8-434"
+  },
+  "/faustmann-wiki/docs/Dragon Schulung/Anleitung für cloudbasierte Nuance-Spracherkennung-b26": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-dragon-schulung-anleitung-fur-cloudbasierte-nuance-spracherkennunga-39-5bc"
+  },
+  "/faustmann-wiki/docs/Dragon Schulung/Dragon-Browser-Erweiterungen-7fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-dragon-schulung-dragon-browser-erweiterungen-736-265"
+  },
+  "/faustmann-wiki/docs/Dragon Schulung/intro-686": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-dragon-schulung-intro-6-ff-50b"
+  },
+  "/faustmann-wiki/docs/Dragon Schulung/Profi-Tipps für besseres Diktieren mit Spracherkennung-ec7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-dragon-schulung-profi-tipps-fur-besseres-diktieren-mit-spracherkennung-9-b-1-bf6"
+  },
+  "/faustmann-wiki/docs/Dragon Schulung/Web-Befehle für Dragon-Browser-Erweiterungen-385": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-dragon-schulung-web-befehle-fur-dragon-browser-erweiterungen-9-e-3-fa5"
   },
   "/faustmann-wiki/docs/Findentity Büromanagement/Findentity Office/DMS-03c": {
-    "__comp": "17896441",
-    "content": "348e0048"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-findentity-buromanagement-findentity-office-dms-348-747"
   },
   "/faustmann-wiki/docs/Findentity Büromanagement/intro-8ce": {
-    "__comp": "17896441",
-    "content": "6624d4d4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-findentity-buromanagement-intro-662-409"
   },
   "/faustmann-wiki/docs/Findentity Büromanagement/transformed_doc/Kurzanleitung zur Bedienung von DMO DPA DLA-470": {
-    "__comp": "17896441",
-    "content": "2a02cbd3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-findentity-buromanagement-transformed-doc-kurzanleitung-zur-bedienung-von-dmo-dpa-dla-2-a-0-f1f"
   },
   "/faustmann-wiki/docs/intro/-f42": {
-    "__comp": "17896441",
-    "content": "7d744e69"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-intro-7-d-7-f52"
   },
   "/faustmann-wiki/docs/intro/markdown-cb1": {
-    "__comp": "17896441",
-    "content": "d881226b"
-  },
-  "/faustmann-wiki/docs/Test/Anleitung für cloudbasierte Nuance-Spracherkennung-3b3": {
-    "__comp": "17896441",
-    "content": "31c12d76"
-  },
-  "/faustmann-wiki/docs/Test/intro2-6de": {
-    "__comp": "17896441",
-    "content": "ccfe8611"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---faustmann-wiki-docs-intro-markdownd-88-a78"
   },
   "/faustmann-wiki/-f7f": {
-    "__comp": "1df93b7f",
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---faustmann-wiki-markdown-pagea-74-488"
     },
-    "config": "5e9f5e1a"
+    "config": "config---faustmann-wiki-5-e-9-611"
   }
 }

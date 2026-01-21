@@ -1,0 +1,448 @@
+![Image: image_001](./200+%20beste%20Befehle%20für%20Spracherkennung_images/image_001.png)
+
+Wichtige Befehle und Bedienkommandos für die Front-End und Back-End Spracherkennung mit Nuance Dragon und Findentity Dictate
+
+Thax Software GmbH · Halberstädter Str. 6 · 10711 Berlin
+
+**Inhaltsverzeichnis**
+
+[Generelle Hinweise zum Diktieren mit der Dragon Front-End Spracherkennung und der Findentity Back-End Spracherkennung 3](#_Toc188020546)
+
+[Wichtige Befehle für die Dragon Front-End Spracherkennung und für die Findentity Dictate Back-End Spracherkennung 4](#_Toc188020547)
+
+[Absätze und Leerzeichen erstellen 4](#_Toc188020548)
+
+[Buchstaben, Groß- und Kleinschreibung 4](#_Toc188020549)
+
+[Interpunktionszeichen 4](#_Toc188020550)
+
+[Sonderzeichen 5](#_Toc188020551)
+
+[Zahlen 5](#_Toc188020552)
+
+[Währungen 6](#_Toc188020553)
+
+[Datumsangaben 6](#_Toc188020554)
+
+[Uhrzeiten 6](#_Toc188020555)
+
+[Telefonnummern 6](#_Toc188020556)
+
+[Römische Zahlen 7](#_Toc188020557)
+
+[Abkürzungen und Akronyme 7](#_Toc188020558)
+
+[Wortzusammensetzungen mit Bindestrichen 7](#_Toc188020559)
+
+[E-Mail- und Web-Adressen 8](#_Toc188020560)
+
+[Wichtige Bedienkommandos ausschließlich für die Front-End Spracherkennung mit Nuance Dragon 8](#_Toc188020561)
+
+[Navigieren und Formatieren 8](#_Toc188020562)
+
+[Verschiedenes 8](#_Toc188020563)
+
+[Cursor bewegen – Dragon Front-End Spracherkennung 8](#_Toc188020564)
+
+[Zeichenweise 8](#_Toc188020565)
+
+[Wortweise 9](#_Toc188020566)
+
+[Zeilenweise 9](#_Toc188020567)
+
+[Absatzweise 9](#_Toc188020568)
+
+[Zu bestimmten Wörtern / Ausdrücken 9](#_Toc188020569)
+
+[Zu Anfang und Ende von Zeilen und Dokumenten 9](#_Toc188020570)
+
+[Zur vorherigen Cursorposition 9](#_Toc188020571)
+
+[Text markieren – Dragon Front-End Spracherkennung 10](#_Toc188020572)
+
+[Bestimmte Wörter und Ausdrücke markieren 10](#_Toc188020573)
+
+[Teile eines Dokuments markieren 10](#_Toc188020574)
+
+[Text wiederholt markieren – Dragon Front-End Spracherkennung 11](#_Toc188020575)
+
+[Formatieren 11](#_Toc188020576)
+
+[Kontakt 12](#_Toc188020577)
+
+# Generelle Hinweise zum Diktieren mit der Dragon Front-End Spracherkennung und der Findentity Back-End Spracherkennung
+
+**Damit die Spracherkennung gut funktioniert und Sie bessere Ergebnisse erhalten, beachten Sie während der Aufnahme bitte Folgendes:**
+
+- Bitte nehmen Sie Ihr Diktat in einer ruhigen Umgebung auf.
+- Halten Sie das Diktiermikrofon mit gleichbleibendem Abstand möglichst nah an Ihren Mund und versuchen Sie, in Richtung des Mikrofons zu sprechen.
+- Sprechen Sie deutlich, aber dennoch natürlich.
+- Wenn Sie längere Pausen machen oder Sie sich räuspern müssen, unterbrechen Sie die Aufnahme. Drücken Sie auf das Mikrofon-Symbol oder sagen: „Geh schlafen“.
+- Die Spracherkennung schreibt nur das, was Sie diktieren! Satzzeichen wie Punkt, Komma, Anführungszeichen und Absätze etc. müssen Sie mitdiktieren.
+- Bestimmte Satzzeichen, Sonderzeichen, Abkürzungen, Zahlen, Währungen und Datumsformate müssen ebenfalls korrekt diktiert werden. Hierfür gibt es bestimmte Diktierbefehle und Kommandos, die folgend aufgelistet werden.
+
+Stand: 11.02.2025
+
+# Wichtige Befehle für die Dragon Front-End Spracherkennung und für die Findentity Dictate Back-End Spracherkennung
+
+## Absätze und Leerzeichen erstellen
+
+|  |  |
+| --- | --- |
+| **Um (Aktion):** | **Sagen Sie (Resultat):** |
+| **eine neue Zeile hinzufügen** | Neue Zeile |
+| **einen neuen Absatz hinzufügen** Hinweis: Das nächste Wort wird immer großgeschrieben. | Neuer Absatz |
+| **die Leertaste zu drücken** | Leertaste |
+| **die Eingabetaste zu drücken** | Drück Eingabetaste |
+| **die Tab Taste zu drucken** | Drück Tab  *oder* Tabulatortaste |
+| **eine Spalte einzufügen** | Neue Spalte |
+| **das Wort zu streichen** | Streich das *oder* Lösch das |
+
+## Buchstaben, Groß- und Kleinschreibung
+
+|  |  |
+| --- | --- |
+| **Um (Aktion):** | **Sagen Sie (Resultat):** |
+| **einen großen Buchstaben zu schreiben** | Groß „Buchstabe“ (Bsp.: groß **A**) |
+| **einen kleinen Buchstaben zu schreiben** | klein „Buchstabe“ (Bsp.: klein **a**) |
+| **ein Wort groß zu schreiben** | Großbuchstaben „Wort“ (Bsp.: „Großbuchstaben Test“ schreibt „**TEST**“) |
+| **ein Wort klein zu schreiben** | Kleinbuchstaben „Wort“ (Bsp.: „Kleinbuchstaben Test“ schreibt „**test**“) |
+
+## Interpunktionszeichen
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie (Resultat):** |
+| **,** | Komma |
+| **.** | Punkt |
+| **?** | Fragezeichen |
+| **!** | Ausrufezeichen |
+| **„** | Anführungszeichen auf *oder* Gänsefüßchen auf |
+| **“** | Anführungszeichen zu *oder* Gänsefüßchen zu |
+| **‘** | Einfaches Anführungszeichen auf |
+| **’** | Einfaches Anführungszeichen zu |
+| **(** | Klammer auf |
+| **)** | Klammer zu |
+| **[** | Eckige Klammer auf |
+| **]** | Eckige Klammer zu |
+| **\{** | Geschweifte Klammer auf |
+| **\}** | Geschweifte Klammer zu |
+| **‘** | Apostroph |
+| **-** | Bindestrich *bzw*. Ergänzungsstrich links *oder* Ergänzungsstrich rechts: „Textilgroß- und -einzelhandel“ |
+| **—** | Gedankenstrich |
+| **/** | Schrägstrich |
+| **:** | Doppelpunkt |
+| **…** | Punkt Punkt Punkt |
+
+## Sonderzeichen
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| • | Aufzählungszeichen |
+| **&** | Und-Zeichen |
+| **\*** | Sternchen |
+| **@** | At, At-Zeichen *oder* Klammeraffe |
+| **©** | Urheberrechtssymbol |
+| **^** | Einschaltungszeichen |
+| **°** | Gradzeichen |
+| **$** | Dollarzeichen |
+| **€** | Eurosymbol |
+| **£** | Pfundsymbol |
+| **%** | Prozentzeichen |
+| **®** | Eingetragene Marke *oder* Eingetragenes Warenzeichen |
+| **§** | Paragrafzeichen |
+| **™** | Markensymbol *oder* Warenzeichensymbol |
+| **+** | Pluszeichen |
+| **-** | Minuszeichen |
+| **»** | Zitatanfang |
+| **«** | Zitatende |
+| **#** | Nummernzeichen |
+| **:-)** | Smiley Gesicht |
+| **:-(** | trauriges Gesicht |
+| **;-)** | zwinkerndes Gesicht |
+
+## Zahlen
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| **1** | Ziffer eins |
+| **5** | Ziffer fünf |
+| **17** | siebzehn |
+| **23** | dreiundzwanzig |
+| **179** | Einhundertneunundsiebzig *oder* hundertneunundsiebzig |
+| **5423** | fünftausendvierhundertdreiundzwanzig |
+| **5.423** | fünf [Punkt] vier zwei drei |
+| **12.537** | zwölftausendfünfhundertsiebenunddreißig |
+| **142.015** | hundertzweiundvierzigtausendfünfzehn |
+| **35,23** | fünfunddreißig [komma] zwei drei |
+| **0,03** | null [komma] null drei |
+| **43,28%** | dreiundvierzig [komma] zwei acht [Prozent] |
+| **02460** | null zwei vier sechs null |
+| **02460-1458** | null zwei vier sechs null [Bindestrich] eins vier fünf acht |
+| **2 5/8** | zwei [Leertaste] fünf achtel |
+| **3/4** | drei [Schrägstrich] vier |
+| **11/32** | elf [Schrägstrich] zweiunddreißig |
+| **99,50 DM** | neunundneunzig Mark (und) fünfzig |
+| **45,35 €** | 45 Euro (und) fünfunddreißig |
+| **3.4.1.** | drei [Punkt] vier [Punkt] eins [Punkt] |
+| **3-2-1** | drei [Trennstrich] zwei [Trennstrich] eins |
+
+## Währungen
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| **58,17 €** | achtundfünfzig Euro(s) und siebzehn Cents |
+| **1,75 €** | ein Euro(s) und fünfundsiebzig Cents |
+| **5,25 €** | fünf Euro(s) fünfundzwanzig |
+| **45 €** | fünfundvierzig Euro(s) |
+| **45,00 €** | fünfundvierzig Komma null null Euro |
+| **99,50 €** | neunundneunzig Euro(s) fünfzig |
+| **2,20 $** | zwei Dollar zwanzig |
+| **88,99 £** | achtundachtzig Pfund neunundneunzig |
+
+## Datumsangaben
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| **22. Januar 1999** | zweiundzwanzigster Januar neunzehnhundertneunundneunzig |
+| **9. April 2024** | neunter April zweitausendvierundzwanzig |
+| **14.7.85** | vierzehnter siebter fünfundachtzig |
+| **3.11.2022** | dritter elfter zweitausendzweiundzwanzig |
+| **am 1. April** | am ersten April |
+| **den 22. März** | den zweiundzwanzigsten März |
+| **Berlin, den 22. März** | Berlin Komma den zweiundzwanzigsten März |
+
+## Uhrzeiten
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| **8:30 Uhr** | acht Uhr dreißig |
+| **7:45 Uhr** | viertel vor acht |
+| **9:15 Uhr** | viertel nach neun |
+| **10:22 Uhr** | zehn Uhr zweiundzwanzig |
+| **3:00 Uhr** | drei Uhr |
+| **5:00 Uhr** | fünf Uhr |
+| **8:30 Uhr bis 9:30 Uhr** | acht Uhr dreißig bis neun Uhr dreißig |
+
+## Telefonnummern
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| **9 65 32** | Ziffer neun [Leertaste] sechs fünf [Leertaste] drei zwei |
+| **0617/9 65 32** | null sechs eins sieben [Schrägstrich] neun [Leertaste] sechs fünf [Leertaste] drei zwei |
+| **480 00-121** | vier acht null [Leertaste] null null [Bindestrich] eins zwei eins |
+| **(01628) 96552** | [Klammer auf] null eins sechs zwei acht [Klammer zu] neun sechs fünf fünf zwei |
+| **0911-684532** | null neun elf [Bindestrich] sechs acht vier fünf drei zwei |
+| **+49 (40) 738 6580** | Pluszeichen [ohne Leerschritt] vier neun [Klammer auf] vier null [Klammer zu] sieben drei acht [Leertaste] sechs fünf acht null |
+| **0032 (6) 9294 08** | null null drei zwei [Leertaste] [Klammer auf] sechs [Klammer zu] [Leertaste] zweiundneunzig vierundneunzig [Leertaste] null acht |
+
+## Römische Zahlen
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| **I** | römisch eins |
+| **IV** | römisch vier |
+| **V** | römisch fünf |
+| **X** | römisch zehn |
+| **L** | römisch fünfzig |
+| **C** | römisch hundert |
+| **D** | römisch fünfhundert |
+| **M** | römisch tausend |
+| **XXIV** | römisch vierundzwanzig |
+| **XXXI** | römisch einunddreißig |
+| **MCMXCVII** | römisch eintausend neunhundert siebenundneunzig |
+
+## Abkürzungen und Akronyme
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| **Dr.** | Doktor |
+| **Prof.** | Prof [Punkt] |
+| **USA** | U S A (sagen Sie jeden Buchstaben) |
+| **GmbH** | G M B H (sagen Sie jeden einzelnen Buchstaben) |
+| **FAZ** | F A Z (sagen Sie ein Wort oder einzelne Buchstaben) |
+| **NATO** | Nato (sagen Sie das ganze Wort) |
+| **DAX** | Dax (sagen Sie das ganze Wort) |
+| **8 cm** | acht Zentimeter |
+| **12 m** | zwölf Meter |
+| **11 km** | elf Kilometer |
+| **700 kg** | siebenhundert kilogramm |
+| **12 t** | zwölf tonnen |
+| **1600 U/min** | 1600 Umdrehungen pro Minute |
+
+## Wortzusammensetzungen mit Bindestrichen
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| **U-Bahn** | U Bahn |
+| **Mercedes-Benz** | Mercedes Benz |
+| **Sachsen-Anhalt** | Sachsen Anhalt |
+| **Baden-Württemberg** | Baden Württemberg |
+| **Software-Anwendung** | Software [Bindestrich] Anwendung |
+| **Schulte-Hausmann** | Schulte [Bindestrich] Hausmann |
+| **Fax-Anschluss** | Fax [Bindestrich] Anschluss |
+
+## E-Mail- und Web-Adressen
+
+|  |  |
+| --- | --- |
+| **Zur Eingabe von:** | **Sagen Sie:** |
+| **Max39@microsoft.com** | Max39 [at] microsoft [Punkt com] |
+| **info@Musterfirma.de** | Info [at] Musterfirma [Punkt de] |
+| **www.internet.de** | www internet [Punkt de] |
+| **https://www.web.com** | [Kleinbuchstaben] h t t p s [Doppelpunkt] [Schrägstrich] [Schrägstrich] [Kleinbuchstaben] www web Punkt com |
+
+# Wichtige Bedienkommandos ausschließlich für die Front-End Spracherkennung mit Nuance Dragon
+
+# Navigieren und Formatieren
+
+Navigieren und Formatieren funktioniert nur in unterstützten Anwendungen, wie bspw. MS Word, MS Outlook u. a.
+
+## Verschiedenes
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Aktion:** |
+| Geh schlafen | Pause / Unterbricht die Aufnahme |
+| Korrigier das *oder* Korrigier \<Wort\> | korrigiert das Wort, wo der Cursor steht oder korrigiert das Wort, das Sie sagen |
+| Streich das | Streicht das Wort |
+| Zeile löschen | Löscht Zeile |
+| Letzte \<n\> Wörter löschen | Löscht die letzten \<n\> Wörter |
+| Lösch das | Löscht das letzte Wort |
+| Rückschritt \<n\> | Geht zurück zu \<n\> |
+| Rückgängig machen | Macht Aktion rückgängig |
+| Schneid das aus | Schneidet Markierung aus |
+| Kopier das | Kopiert Markierung |
+| Lösche \<Text\> | Löscht \<Text\> |
+| Fett \<Text\> | Macht \<Text\> fett |
+
+# Cursor bewegen – Dragon Front-End Spracherkennung
+
+Der Cursor bzw. die Einfügemarke lässt sich in Dragon gezielt bewegen.
+
+## Zeichenweise
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Gefolgt von:** |
+| „Ein Zeichen“ | „nach rechts/links“ |
+| „\<2-20\> Zeichen“ | „nach rechts/links“ |
+
+## Wortweise
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Gefolgt von:** |
+| „Ein Wort“ | „nach rechts/links“ |
+| „\<2-20\> Wörter“ | „nach rechts/links“ |
+
+## Zeilenweise
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Gefolgt von:** |
+| „Eine Zeile“ | „nach oben/unten“ |
+| „\<2-20\> Zeilen“ | „nach oben/unten“ |
+
+## Absatzweise
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Gefolgt von:** |
+| „Einen Absatz“ | „nach oben/unten“ |
+| „\<2-20\> Absätze“ | „nach oben/unten“ |
+
+## Zu bestimmten Wörtern / Ausdrücken
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Ergebnis:** |
+| „Cursor vor \<Text\>“ | Einfügemarke wird **vor** den gesagten Text platziert |
+| „Cursor hinter \<Text\>“ | Einfügemarke wird **hinter** den gesagten Text platziert |
+
+## Zu Anfang und Ende von Zeilen und Dokumenten
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Ergebnis:** |
+| „Zum Dokumentenanfang“ | Cursor/Einfügemarke springt zum Dokumentenanfang |
+| „Zum Dokumentenanfang“ | Cursor/Einfügemarke springt zum Dokumentenende |
+| „Zum Zeilenanfang“ | Cursor/Einfügemarke springt zum Zeilenanfang |
+| „Zum Zeilenende“ | Cursor/Einfügemarke springt zum Zeilenende |
+
+## Zur vorherigen Cursorposition
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Ergebnis:** |
+| „Zurückgehen“ | Curser/Einfügemarke springt an die vorherige Position |
+
+# Text markieren – Dragon Front-End Spracherkennung
+
+Hinweis: Wenn Sie den „Markieren“-Befehl nutzen, sucht Dragon von der aktuellen Position des Cursors/der Einfügemarke rückwärts.
+
+|  |  |  |
+| --- | --- | --- |
+| **Sagen Sie:** | **Gefolgt von:** | **Und dann:** |
+| „Vorheriges Zeichen“ | „markieren“ |  |
+| „Nächstes Zeichen“ | „markieren“ |  |
+| „Ein Zeichen“ | „nach links/rechts“ | „markieren“ |
+| „\<2-20\> Zeichen“ | „nach links/rechts“ | „markieren“ |
+| „Vorheriges Wort“ | „markieren“ |  |
+| „Nächstes Wort“ | „markieren“ |  |
+| „Ein Wort“ | „nach links/rechts“ | „markieren“ |
+| „\<2-20\> Wörter“ | „nach links/rechts“ | „markieren“ |
+
+## Bestimmte Wörter und Ausdrücke markieren
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Ergebnis:** |
+| „Markier \<Wort\>“ | Markiert das gesagte Wort. |
+| „Markier \<Wort\> bis \<Wort\>“ | Markiert von dem zuerst gesagten Wort bis zum zweitgesagten Wort. |
+
+## Teile eines Dokuments markieren
+
+|  |  |  |
+| --- | --- | --- |
+| **Sagen Sie:** | **Gefolgt von:** | **Und dann:** |
+| „Zeile“ | „markieren“ |  |
+| „\<2-20\> Zeilen“ | „nach oben/unten“ | „markieren“ |
+| „Absatz“ | „markieren“ |  |
+| „Vorherigen Absatz“ | „markieren“ |  |
+| „Nächsten Absatz“ | „markieren“ |  |
+| „Einen Absatz“ | „nach oben/unten“ | „markieren“ |
+| „Dokument markieren“ |  |  |
+
+# Text wiederholt markieren – Dragon Front-End Spracherkennung
+
+Sollte ein Wort oder ein Ausdruck mehrmals im Text vorkommen, können Sie das zweite, dritte usw. Vorkommen des bereits markierten Textes mit dem Befehl
+**„Noch mal markieren“** auch markieren.
+
+## Formatieren
+
+|  |  |
+| --- | --- |
+| **Sagen Sie:** | **Aktion:** |
+| Formatier das  *oder* Mach das  *oder* Schreib das  *oder* Auswahl  … gefolgt von der gewünschten Aktion | Arial  Courier  Courier New  Times  Times New Roman |
+| Formatier das  *oder* Mach das  *oder* Schreib das  *oder* Auswahl  … gefolgt von der gewünschten Aktion | fett  kursiv  fett kursiv  unterstrichen  durchgestrichen  Standard *oder* normaler Text *oder* normal |
+| Schreib das alles groß | Schreibt alle Wörter groß |
+| Unterstreich dieses Wort | Unterstreicht das letzte/markierte Wort |
+
+# Kontakt
+
+Sehr gerne stehen wir Ihnen bei weiteren Fragen zur Spracherkennung mit Nuance Dragon
+und Findentity Dictate zur Verfügung.
+
+|  |  |
+| --- | --- |
+| ![Image: image_002](./200+%20beste%20Befehle%20für%20Spracherkennung_images/image_002.png) | Thax Software GmbH Halberstädter Str. 6 10711 Berlin Fon: +49 30 89064140 info@thax.de [www.thax.de](http://www.thax.de/) |

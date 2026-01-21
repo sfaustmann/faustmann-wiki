@@ -1,0 +1,105 @@
+[
+  {
+    "sid": "/hintergrundwissen-spracherkennung-von-der-sprache-zum-text",
+    "title": "Hintergrundwissen Spracherkennung: Von der Sprache zum Text",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/komponenten-der-spracherkennung--der-weg-von-der-sprache-zum-text",
+        "title": "Komponenten der Spracherkennung – Der Weg von der Sprache zum Text",
+        "level": 2,
+        "parent": "/hintergrundwissen-spracherkennung-von-der-sprache-zum-text",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/generelle-hinweise-zum-richtigen-diktieren",
+    "title": "Generelle Hinweise zum richtigen Diktieren",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/1-die-audioaufnahme-sollte-möglichst-nur-ihre-stimme-beinhalten-d-h-je-weniger-hintergrundgeräusche-desto-besser",
+        "title": "1. Die Audioaufnahme sollte möglichst nur Ihre Stimme beinhalten, d. h. je weniger Hintergrundgeräusche, desto besser.",
+        "level": 2,
+        "parent": "/generelle-hinweise-zum-richtigen-diktieren",
+        "children": []
+      },
+      {
+        "sid": "/2-die-aufnahmequalität-hängt-auch-von-der-verwendeten-diktiertechnik-bzw-dem-mikrofon-ab-hier-lohnt-es-sich-auf-qualität-zu-setzen-einige-headsets-oder-speziell-für-die-spracherkennung-entwickelte-diktiermikrofone-können-teilweise-hintergrundgeräusche-wegfiltern",
+        "title": "2. Die Aufnahmequalität hängt auch von der verwendeten Diktiertechnik bzw. dem Mikrofon ab. Hier lohnt es sich, auf Qualität zu setzen. Einige Headsets oder speziell für die Spracherkennung entwickelte Diktiermikrofone können teilweise Hintergrundgeräusche wegfiltern.",
+        "level": 2,
+        "parent": "/generelle-hinweise-zum-richtigen-diktieren",
+        "children": []
+      },
+      {
+        "sid": "/3-bei-kabellosen-geräten-bluetooth-oder-dect-könnte-je-nach-modell-und-funkstandard-durch-eine-komprimierte-drahtlose-datenübertragung-die-qualität-etwas-leiden",
+        "title": "3. Bei kabellosen Geräten (Bluetooth oder DECT) könnte je nach Modell und Funkstandard durch eine komprimierte drahtlose Datenübertragung die Qualität etwas leiden.",
+        "level": 2,
+        "parent": "/generelle-hinweise-zum-richtigen-diktieren",
+        "children": []
+      },
+      {
+        "sid": "/4-des-weiteren-produzieren-hochwertige-mikrofone-audiodaten-in-einer-von-der-spracherkennungssoftware-geforderten-abtastrate-und-bittiefe-beispielsweise-verlangt-die-dragon-spracherkennungssoftware-eine-abtastrate-samplingrate-von-mindestens-16-khz",
+        "title": "4. Des Weiteren produzieren hochwertige Mikrofone Audiodaten in einer von der Spracherkennungssoftware geforderten Abtastrate und Bittiefe. Beispielsweise verlangt die Dragon-Spracherkennungssoftware eine Abtastrate (Samplingrate) von mindestens 16 kHz.",
+        "level": 2,
+        "parent": "/generelle-hinweise-zum-richtigen-diktieren",
+        "children": []
+      },
+      {
+        "sid": "/5-ergänzend-zur-aufnahmequalität-zählt-auch-die-qualität-ihrer-aussprache-vermeiden-sie-es-zu-nuscheln-und-wörter-undeutlich-auszusprechen-silben-zu-verschlucken-und-starke-dialekte-zu-verwenden",
+        "title": "5. Ergänzend zur Aufnahmequalität zählt auch die Qualität Ihrer Aussprache. Vermeiden Sie es zu Nuscheln und Wörter undeutlich auszusprechen, Silben zu verschlucken und starke Dialekte zu verwenden.",
+        "level": 2,
+        "parent": "/generelle-hinweise-zum-richtigen-diktieren",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/hinweise-und-tipps-zum-besseren-diktieren-bei-nutzung-von-spracherkennung",
+    "title": "Hinweise und Tipps zum besseren Diktieren bei Nutzung von Spracherkennung",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/die-richtige-aufnahmeumgebung",
+        "title": "Die richtige Aufnahmeumgebung",
+        "level": 2,
+        "parent": "/hinweise-und-tipps-zum-besseren-diktieren-bei-nutzung-von-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/die-richtige-position-des-aufnahmegeräts",
+        "title": "Die richtige Position des Aufnahmegeräts",
+        "level": 2,
+        "parent": "/hinweise-und-tipps-zum-besseren-diktieren-bei-nutzung-von-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/die-richtige-handhabung-während-der-aufnahme",
+        "title": "Die richtige Handhabung während der Aufnahme",
+        "level": 2,
+        "parent": "/hinweise-und-tipps-zum-besseren-diktieren-bei-nutzung-von-spracherkennung",
+        "children": []
+      },
+      {
+        "sid": "/die-wichtigsten-aspekte-während-der-aufnahme",
+        "title": "Die wichtigsten Aspekte während der Aufnahme",
+        "level": 2,
+        "parent": "/hinweise-und-tipps-zum-besseren-diktieren-bei-nutzung-von-spracherkennung",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/technische-aspekte-bei-nutzung-mobiler-diktat-aufnahmegeräte",
+    "title": "Technische Aspekte bei Nutzung mobiler Diktat-Aufnahmegeräte",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/kontakt",
+    "title": "Kontakt",
+    "level": 1,
+    "children": []
+  }
+]

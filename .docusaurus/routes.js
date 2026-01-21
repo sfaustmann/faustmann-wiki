@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/faustmann-wiki/__docusaurus/debug',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug', '46e'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/config',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/config', '75c'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/content',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/content', '2c9'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/globalData',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/globalData', 'f07'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/metadata',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/metadata', '858'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/registry',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/registry', 'df9'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/routes',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/routes', '599'),
+    exact: true
+  },
+  {
     path: '/faustmann-wiki/blog',
     component: ComponentCreator('/faustmann-wiki/blog', '9e9'),
     exact: true
@@ -59,16 +94,52 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', '1ef'),
+    component: ComponentCreator('/faustmann-wiki/docs', '1cd'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', 'fa0'),
+        component: ComponentCreator('/faustmann-wiki/docs', 'bc4'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', '8f9'),
+            component: ComponentCreator('/faustmann-wiki/docs', '8cc'),
             routes: [
+              {
+                path: '/faustmann-wiki/docs/Dragon Schulung/200+ beste Befehle für Spracherkennung',
+                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/200+ beste Befehle für Spracherkennung', 'f11'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/Dragon Schulung/Anleitung für cloudbasierte Nuance-Spracherkennung',
+                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/Anleitung für cloudbasierte Nuance-Spracherkennung', 'b26'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/Dragon Schulung/Dragon-Browser-Erweiterungen',
+                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/Dragon-Browser-Erweiterungen', '7fb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/Dragon Schulung/intro',
+                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/intro', '686'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/Dragon Schulung/Profi-Tipps für besseres Diktieren mit Spracherkennung',
+                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/Profi-Tipps für besseres Diktieren mit Spracherkennung', 'ec7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/Dragon Schulung/Web-Befehle für Dragon-Browser-Erweiterungen',
+                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/Web-Befehle für Dragon-Browser-Erweiterungen', '385'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/faustmann-wiki/docs/Findentity Büromanagement/Findentity Office/DMS',
                 component: ComponentCreator('/faustmann-wiki/docs/Findentity Büromanagement/Findentity Office/DMS', '03c'),
@@ -96,18 +167,6 @@ export default [
               {
                 path: '/faustmann-wiki/docs/intro/markdown',
                 component: ComponentCreator('/faustmann-wiki/docs/intro/markdown', 'cb1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/Test/Anleitung für cloudbasierte Nuance-Spracherkennung',
-                component: ComponentCreator('/faustmann-wiki/docs/Test/Anleitung für cloudbasierte Nuance-Spracherkennung', '3b3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/Test/intro2',
-                component: ComponentCreator('/faustmann-wiki/docs/Test/intro2', '6de'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

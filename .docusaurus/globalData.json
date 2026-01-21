@@ -11,6 +11,36 @@
           "mainDocId": "intro/intro",
           "docs": [
             {
+              "id": "Dragon Schulung/200+ beste Befehle für Spracherkennung",
+              "path": "/faustmann-wiki/docs/Dragon Schulung/200+ beste Befehle für Spracherkennung",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dragon Schulung/Anleitung für cloudbasierte Nuance-Spracherkennung",
+              "path": "/faustmann-wiki/docs/Dragon Schulung/Anleitung für cloudbasierte Nuance-Spracherkennung",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dragon Schulung/Dragon-Browser-Erweiterungen",
+              "path": "/faustmann-wiki/docs/Dragon Schulung/Dragon-Browser-Erweiterungen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dragon Schulung/intro",
+              "path": "/faustmann-wiki/docs/Dragon Schulung/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dragon Schulung/Profi-Tipps für besseres Diktieren mit Spracherkennung",
+              "path": "/faustmann-wiki/docs/Dragon Schulung/Profi-Tipps für besseres Diktieren mit Spracherkennung",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dragon Schulung/Web-Befehle für Dragon-Browser-Erweiterungen",
+              "path": "/faustmann-wiki/docs/Dragon Schulung/Web-Befehle für Dragon-Browser-Erweiterungen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Findentity Büromanagement/Findentity Office/DMS",
               "path": "/faustmann-wiki/docs/Findentity Büromanagement/Findentity Office/DMS",
               "sidebar": "tutorialSidebar"
@@ -33,16 +63,6 @@
             {
               "id": "intro/markdown",
               "path": "/faustmann-wiki/docs/intro/markdown",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test/Anleitung für cloudbasierte Nuance-Spracherkennung",
-              "path": "/faustmann-wiki/docs/Test/Anleitung für cloudbasierte Nuance-Spracherkennung",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Test/intro2",
-              "path": "/faustmann-wiki/docs/Test/intro2",
               "sidebar": "tutorialSidebar"
             }
           ],

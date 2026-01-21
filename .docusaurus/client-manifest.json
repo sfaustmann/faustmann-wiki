@@ -78,6 +78,9 @@
       869,
       61
     ],
+    "2a02cbd3": [
+      622
+    ],
     "31c12d76": [
       186
     ],
@@ -212,9 +215,9 @@
     "15": {
       "js": [
         {
-          "file": "assets/js/348e0048.ab070d54.js",
-          "hash": "e264ae2637da0a72",
-          "publicPath": "/faustmann-wiki/assets/js/348e0048.ab070d54.js"
+          "file": "assets/js/348e0048.bfd3be38.js",
+          "hash": "f64ed122edf41f42",
+          "publicPath": "/faustmann-wiki/assets/js/348e0048.bfd3be38.js"
         }
       ]
     },
@@ -383,9 +386,9 @@
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.d3dd5fdf.js",
-          "hash": "229344fc4cca2711",
-          "publicPath": "/faustmann-wiki/assets/js/runtime~main.d3dd5fdf.js"
+          "file": "assets/js/runtime~main.1b8b4102.js",
+          "hash": "23fb28672374bc5c",
+          "publicPath": "/faustmann-wiki/assets/js/runtime~main.1b8b4102.js"
         }
       ]
     },
@@ -452,6 +455,15 @@
         }
       ]
     },
+    "622": {
+      "js": [
+        {
+          "file": "assets/js/2a02cbd3.936497c9.js",
+          "hash": "f5e142df30148e05",
+          "publicPath": "/faustmann-wiki/assets/js/2a02cbd3.936497c9.js"
+        }
+      ]
+    },
     "639": {
       "js": [
         {
@@ -482,9 +494,9 @@
     "686": {
       "js": [
         {
-          "file": "assets/js/ccfe8611.67b8eca4.js",
-          "hash": "faad9c0447d2903f",
-          "publicPath": "/faustmann-wiki/assets/js/ccfe8611.67b8eca4.js"
+          "file": "assets/js/ccfe8611.e3eef99b.js",
+          "hash": "b5198d4aa01b68b2",
+          "publicPath": "/faustmann-wiki/assets/js/ccfe8611.e3eef99b.js"
         }
       ]
     },
@@ -527,18 +539,18 @@
     "776": {
       "js": [
         {
-          "file": "assets/js/be26d934.17b299c1.js",
-          "hash": "5fee8848546b5e27",
-          "publicPath": "/faustmann-wiki/assets/js/be26d934.17b299c1.js"
+          "file": "assets/js/be26d934.847f1766.js",
+          "hash": "64a35bd20bdd1702",
+          "publicPath": "/faustmann-wiki/assets/js/be26d934.847f1766.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.ac126cce.js",
-          "hash": "aa659511e9f67ece",
-          "publicPath": "/faustmann-wiki/assets/js/main.ac126cce.js"
+          "file": "assets/js/main.b3d88353.js",
+          "hash": "d7501f95a4e926c4",
+          "publicPath": "/faustmann-wiki/assets/js/main.b3d88353.js"
         }
       ]
     },
@@ -554,9 +566,9 @@
     "809": {
       "js": [
         {
-          "file": "assets/js/809.ab5d079a.js",
-          "hash": "d7b61bbed212ef26",
-          "publicPath": "/faustmann-wiki/assets/js/809.ab5d079a.js"
+          "file": "assets/js/809.d138e1d1.js",
+          "hash": "4592659d9adeb101",
+          "publicPath": "/faustmann-wiki/assets/js/809.d138e1d1.js"
         }
       ]
     },

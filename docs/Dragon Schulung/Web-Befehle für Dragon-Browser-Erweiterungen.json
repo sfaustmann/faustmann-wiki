@@ -1,0 +1,158 @@
+[
+  {
+    "sid": "/vorbemerkung",
+    "title": "Vorbemerkung",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/microsoft-edge--sprachbefehle",
+    "title": "Microsoft Edge – Sprachbefehle",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/grundlagen",
+        "title": "Grundlagen",
+        "level": 2,
+        "parent": "/microsoft-edge--sprachbefehle",
+        "children": []
+      },
+      {
+        "sid": "/tabulatoren-und-navigation",
+        "title": "Tabulatoren und Navigation",
+        "level": 2,
+        "parent": "/microsoft-edge--sprachbefehle",
+        "children": []
+      },
+      {
+        "sid": "/",
+        "title": "",
+        "level": 2,
+        "parent": "/microsoft-edge--sprachbefehle",
+        "children": []
+      },
+      {
+        "sid": "/listenfelder-und-webseiten-steuerelemente",
+        "title": "Listenfelder und Webseiten-Steuerelemente",
+        "level": 2,
+        "parent": "/microsoft-edge--sprachbefehle",
+        "children": [
+          {
+            "sid": "/listenfelder-anklicken",
+            "title": "Listenfelder anklicken",
+            "level": 3,
+            "parent": "/listenfelder-und-webseiten-steuerelemente",
+            "children": []
+          },
+          {
+            "sid": "/andere-steuerelemente-anklicken",
+            "title": "Andere Steuerelemente anklicken",
+            "level": 3,
+            "parent": "/listenfelder-und-webseiten-steuerelemente",
+            "children": []
+          },
+          {
+            "sid": "/steuerelemente-anklicken-wenn-diese-mehrfach-vorkommen",
+            "title": "Steuerelemente anklicken, wenn diese mehrfach vorkommen",
+            "level": 3,
+            "parent": "/listenfelder-und-webseiten-steuerelemente",
+            "children": [
+              {
+                "sid": "/2-sagen-sie-nimm--um-ein-steuerelement-anzuklicken",
+                "title": "2. Sagen Sie „Nimm “, um ein Steuerelement anzuklicken.",
+                "level": 4,
+                "parent": "/steuerelemente-anklicken-wenn-diese-mehrfach-vorkommen",
+                "children": []
+              },
+              {
+                "sid": "/3-zahlen-ausblenden",
+                "title": "3. Zahlen ausblenden:",
+                "level": 4,
+                "parent": "/steuerelemente-anklicken-wenn-diese-mehrfach-vorkommen",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "/google-chrome--sprachbefehle",
+    "title": "Google Chrome – Sprachbefehle",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/grundlagen-1",
+        "title": "Grundlagen",
+        "level": 2,
+        "parent": "/google-chrome--sprachbefehle",
+        "children": []
+      },
+      {
+        "sid": "/tabulatoren-und-navigation-1",
+        "title": "Tabulatoren und Navigation",
+        "level": 2,
+        "parent": "/google-chrome--sprachbefehle",
+        "children": []
+      },
+      {
+        "sid": "/listenfelder-und-webseiten-steuerelemente-1",
+        "title": "Listenfelder und Webseiten-Steuerelemente",
+        "level": 2,
+        "parent": "/google-chrome--sprachbefehle",
+        "children": [
+          {
+            "sid": "/listenfelder-anklicken-1",
+            "title": "Listenfelder anklicken",
+            "level": 3,
+            "parent": "/listenfelder-und-webseiten-steuerelemente-1",
+            "children": []
+          },
+          {
+            "sid": "/andere-steuerelemente-anklicken-1",
+            "title": "Andere Steuerelemente anklicken",
+            "level": 3,
+            "parent": "/listenfelder-und-webseiten-steuerelemente-1",
+            "children": []
+          },
+          {
+            "sid": "/steuerelemente-anklicken-wenn-diese-mehrfach-vorkommen-1",
+            "title": "Steuerelemente anklicken, wenn diese mehrfach vorkommen",
+            "level": 3,
+            "parent": "/listenfelder-und-webseiten-steuerelemente-1",
+            "children": [
+              {
+                "sid": "/5-sagen-sie-nimm--um-ein-steuerelement-anzuklicken",
+                "title": "5. Sagen Sie „Nimm “, um ein Steuerelement anzuklicken.",
+                "level": 4,
+                "parent": "/steuerelemente-anklicken-wenn-diese-mehrfach-vorkommen-1",
+                "children": []
+              },
+              {
+                "sid": "/6-zahlen-ausblenden",
+                "title": "6. Zahlen ausblenden:",
+                "level": 4,
+                "parent": "/steuerelemente-anklicken-wenn-diese-mehrfach-vorkommen-1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "sid": "/installation-in-google-chrome",
+            "title": "Installation in Google Chrome",
+            "level": 3,
+            "parent": "/listenfelder-und-webseiten-steuerelemente-1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "/kontakt",
+    "title": "Kontakt",
+    "level": 1,
+    "children": []
+  }
+]

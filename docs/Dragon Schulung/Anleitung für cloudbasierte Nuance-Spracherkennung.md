@@ -170,6 +170,7 @@ Einige wichtige Funktionen können Sie über das Drücken von Tastenkombinatione
 
 ![Image: image_013](./Anleitung%20für%20cloudbasierte%20Nuance-Spracherkennung_images/image_013.png)
 
+
 |  |  |  |
 | --- | --- | --- |
 | Taste am Olympus RecMic | Funktion in DMO | Tastenkürzel |
