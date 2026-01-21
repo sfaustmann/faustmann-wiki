@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkfaustmann_wiki=globalThis.webpackChunkfaustmann_wiki||[]).push([[9647],{7121:(a,s,e)=>{e.r(s),e.d(s,{default:()=>l});e(6540);var n=e(4164),r=e(7559),u=e(5500),i=e(2831),t=e(4514),c=e(4848);function l(a){return(0,c.jsx)(u.e3,{className:(0,n.A)(r.G.wrapper.docsPages),children:(0,c.jsx)(t.A,{children:(0,i.v)(a.route.routes)})})}}}]);

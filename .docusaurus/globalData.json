@@ -8,56 +8,41 @@
           "label": "Next",
           "isLast": true,
           "path": "/faustmann-wiki/docs",
-          "mainDocId": "markdown",
+          "mainDocId": "intro/intro",
           "docs": [
             {
-              "id": "Findentity/einführung",
-              "path": "/faustmann-wiki/docs/Findentity/einführung",
+              "id": "Findentity Büromanagement/Findentity Office/DMS",
+              "path": "/faustmann-wiki/docs/Findentity Büromanagement/Findentity Office/DMS",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Findentity/Findentity Grundlagen/Findentity Module",
-              "path": "/faustmann-wiki/docs/Findentity/Findentity Grundlagen/Findentity Module",
+              "id": "Findentity Büromanagement/intro",
+              "path": "/faustmann-wiki/docs/Findentity Büromanagement/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Findentity/Findentity Grundlagen/transformed_doc/Anleitung für cloudbasierte Nuance-Spracherkennung",
-              "path": "/faustmann-wiki/docs/Findentity/Findentity Grundlagen/transformed_doc/Anleitung für cloudbasierte Nuance-Spracherkennung",
+              "id": "Findentity Büromanagement/transformed_doc/Kurzanleitung zur Bedienung von DMO DPA DLA",
+              "path": "/faustmann-wiki/docs/Findentity Büromanagement/transformed_doc/Kurzanleitung zur Bedienung von DMO DPA DLA",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Findentity/Findentity Profile/Branchenübersicht",
-              "path": "/faustmann-wiki/docs/Findentity/Findentity Profile/Branchenübersicht",
+              "id": "intro/intro",
+              "path": "/faustmann-wiki/docs/intro/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Findentity/Findentity Profile/Gutachter",
-              "path": "/faustmann-wiki/docs/Findentity/Findentity Profile/Gutachter",
+              "id": "intro/markdown",
+              "path": "/faustmann-wiki/docs/intro/markdown",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Findentity/Findentity Profile/Kontakte",
-              "path": "/faustmann-wiki/docs/Findentity/Findentity Profile/Kontakte",
+              "id": "Test/Anleitung für cloudbasierte Nuance-Spracherkennung",
+              "path": "/faustmann-wiki/docs/Test/Anleitung für cloudbasierte Nuance-Spracherkennung",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Findentity/Findentity Profile/Mappei DMS",
-              "path": "/faustmann-wiki/docs/Findentity/Findentity Profile/Mappei DMS",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Findentity/Findentity Profile/Projektmanagement",
-              "path": "/faustmann-wiki/docs/Findentity/Findentity Profile/Projektmanagement",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/faustmann-wiki/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "markdown",
-              "path": "/faustmann-wiki/docs/markdown",
+              "id": "Test/intro2",
+              "path": "/faustmann-wiki/docs/Test/intro2",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -65,8 +50,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/faustmann-wiki/docs/markdown",
-                "label": "markdown"
+                "path": "/faustmann-wiki/docs/intro/",
+                "label": "Dokumentation Überblick"
               }
             }
           }

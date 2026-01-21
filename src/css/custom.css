@@ -28,3 +28,15 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+/* Example: set custom font size for headers */
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 16px;
+}

@@ -71,6 +71,10 @@ export default {
     ]
   ],
   "themeConfig": {
+    "tableOfContents": {
+      "minHeadingLevel": 2,
+      "maxHeadingLevel": 4
+    },
     "image": "img/docusaurus-social-card.jpg",
     "colorMode": {
       "respectPrefersColorScheme": true,
@@ -373,11 +377,7 @@ export default {
         "groupByYear": true
       }
     },
-    "metadata": [],
-    "tableOfContents": {
-      "minHeadingLevel": 2,
-      "maxHeadingLevel": 3
-    }
+    "metadata": []
   },
   "themes": [
     [

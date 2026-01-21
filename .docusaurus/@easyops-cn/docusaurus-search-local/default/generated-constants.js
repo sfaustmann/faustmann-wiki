@@ -1,6 +1,6 @@
 import lunr from "F:\\Dokumentation\\faustmann-wiki\\node_modules\\lunr\\lunr.js";
 export const removeDefaultStopWordFilter = [];
 export const language = ["en"];
-export const searchIndexUrl = "search-index{dir}.json?_=89e5aa41";
+export const searchIndexUrl = "search-index{dir}.json?_=6cf8f31d";
 export const searchResultLimits = 8;
 export const fuzzyMatchingDistance = 1;

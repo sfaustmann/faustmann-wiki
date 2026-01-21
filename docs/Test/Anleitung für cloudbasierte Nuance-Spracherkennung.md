@@ -1,6 +1,6 @@
-Anleitung für cloudbasierte Nuance-Spracherkennung
+# Anleitung für cloudbasierte Nuance-Spracherkennung
 
-06.01.2026
+Stand: 06.01.2026
 
 Diese Anleitung bezieht sich auf folgende Produkte:
 
@@ -8,14 +8,14 @@ Diese Anleitung bezieht sich auf folgende Produkte:
 - Dragon Professional Anywhere (DPA)
 - Dragon Legal Anywhere (DLA)
 
-# Installation
+## 1. Installation
 
-## Voraussetzungen
+### 1.1 Voraussetzungen
 
 - Voraussetzung für die Installation und Ausführung der Software ist ein Microsoft Windows Betriebssystem mit installiertem Microsoft .NET Framework 4.7.2 oder höher.
 - Zur korrekten Anzeige einiger Fenster der Anwendung ist die Installation von „Microsoft Edge WebView2“ zu empfohlen. Das Installationsprogramm bekommen Sie direkt von https://go.microsoft.com/fwlink/p/?LinkId=2124703. Weitere Informationen auf der Webseite von Microsoft unter https://developer.microsoft.com/de-de/microsoft-edge/webview2/.
 
-## Hinweise zu Standalone-Clients
+### 1.2 Hinweise zu Standalone-Clients
 
 - Keine Installation notwendig, Client wird nur entpackt und kann direkt gestartet werden
 - Für Terminalserver-Umgebungen geeignet, siehe unten „Installation in einer Terminalserver-Umgebung“
@@ -23,44 +23,43 @@ Diese Anleitung bezieht sich auf folgende Produkte:
 - Portable Version: Kann z.B. auf USB-Sticks gespeichert werden
 - Keine automatischen Updates
 
-## Installation des Standalone-Clients am PC
+### 1.3 Installation des Standalone-Clients am PC
 
-### 1. Laden Sie die von Ihnen benötigte Variante (DMO, DPA, DLA) des Clients hier herunter: https://download.thax.de/s/NX7gZN8FWD78ieP
-
+1. Laden Sie die von Ihnen benötigte Variante (DMO, DPA, DLA) des Clients hier herunter: https://download.thax.de/s/NX7gZN8FWD78ieP  
 Download-Kennwort: **ThaxSoftware**
 
 **Bitte beim Download beachten:** Dragon Anywhere (DPA / DLA) gibt es in den Varianten „gehostet in der Telekom Cloud“ (Dragon Anywhere Client bis Version 2023.4) oder „gehostet in der Microsoft Azure Cloud“ (Dragon Anywhere Client ab Version 2025.3). Wählen Sie den für Sie passenden Client zum Download aus. Sollten Sie unsicher sein, welche Variante Sie verwenden, erfragen Sie dies bitte beim Thax Support.
 
-### 2. Machen nach dem Download einen Rechtsklick auf die heruntergeladene ZIP-Datei und wählen Sie „Eigenschaften”. Setzen Sie rechts unten einen Haken vor „Zulassen”.
-### 3. Entpacken Sie die heruntergeladene zip-Datei an einen Ort Ihrer Wahl.
-### 4. Suchen Sie im entpackten Verzeichnis nach der Datei SoD.exe, machen Sie einen Rechtsklick auf die Datei und wählen Sie „Senden an Desktop (Verknüpfung erstellen)”.
+2. Machen nach dem Download einen Rechtsklick auf die heruntergeladene ZIP-Datei und wählen Sie „Eigenschaften”. Setzen Sie rechts unten einen Haken vor „Zulassen”.
+3. Entpacken Sie die heruntergeladene zip-Datei an einen Ort Ihrer Wahl.
+4. Suchen Sie im entpackten Verzeichnis nach der Datei SoD.exe, machen Sie einen Rechtsklick auf die Datei und wählen Sie „Senden an Desktop (Verknüpfung erstellen)”.
 
-## Installation in einer Terminalserver-Umgebung
+### 1.4 Installation in einer Terminalserver-Umgebung
 
-### 1. Der Standalone-Client wird auf dem Terminalserver bzw. Citrix-Server installiert, s.o. Unterstützt werden Windows Server 2016, 2019, 2022. Die Extensions für den Nuance-eigenen Audiokanal bzw. für die Tastenumleitungen von Diktiermikrofonen sind in dem Standalone-Client enthalten, somit muss auf dem Server keine extra Software installiert werden.
-### 2. Wir empfehlen, die Nuance Virtual Extensions für RDS-, Citrix- oder VMWare-Clients auf dem Rechner zu installieren, an dem Sie Ihr Mikrofon angeschlossen haben, damit die Software diesen bandbreitenoptimierten eigenen Audiokanal anstelle vom herkömmlichen Remoteaudio verwenden kann. Die Installationspakete stehen unter https://dragonmedicalone.nuance.de/StandAlone/dragonmedicalone#pills-virtual zur Verfügung und können bei Bedarf als Silent-Installation ausgeführt werden. Details finden Sie in den „Nuance…Config\_DE.pdf“ Dokumenten, die den Paketen beigelegt sind.
-### 3. Sofern Sie ein Diktiermikrofon von NUANCE, GRUNDIG oder PHILIPS verwenden, welches nicht für den Tastaturmodus konfiguriert ist, sollten Sie zusätzlich noch die entsprechenden Gerätetreiber der Hersteller installieren. Sie bekommen diese ebenfalls unter dem unter Nr. 2 genannten Link. Es werden die Client-Betriebssysteme Windows 10 und Windows 11 unterstützt (Stand November 2023).
-### 4. Nutzen Sie nicht den Nuance-eigenen Audiokanal, müssen Sie die Remoteaudioeinstellungen konfigurieren. Folgende Einstellungen sind bei der Microsoft-Remotedesktopverbindung vorzunehmen - für Citrix müssen die Einstellungen von Ihrem Admin vorgenommen werden:
+1. Der Standalone-Client wird auf dem Terminalserver bzw. Citrix-Server installiert, s.o. Unterstützt werden Windows Server 2016, 2019, 2022. Die Extensions für den Nuance-eigenen Audiokanal bzw. für die Tastenumleitungen von Diktiermikrofonen sind in dem Standalone-Client enthalten, somit muss auf dem Server keine extra Software installiert werden.
+2. Wir empfehlen, die Nuance Virtual Extensions für RDS-, Citrix- oder VMWare-Clients auf dem Rechner zu installieren, an dem Sie Ihr Mikrofon angeschlossen haben, damit die Software diesen bandbreitenoptimierten eigenen Audiokanal anstelle vom herkömmlichen Remoteaudio verwenden kann. Die Installationspakete stehen unter https://dragonmedicalone.nuance.de/StandAlone/dragonmedicalone#pills-virtual zur Verfügung und können bei Bedarf als Silent-Installation ausgeführt werden. Details finden Sie in den „Nuance…Config\_DE.pdf“ Dokumenten, die den Paketen beigelegt sind.
+3. Sofern Sie ein Diktiermikrofon von NUANCE, GRUNDIG oder PHILIPS verwenden, welches nicht für den Tastaturmodus konfiguriert ist, sollten Sie zusätzlich noch die entsprechenden Gerätetreiber der Hersteller installieren. Sie bekommen diese ebenfalls unter dem unter Nr. 2 genannten Link. Es werden die Client-Betriebssysteme Windows 10 und Windows 11 unterstützt (Stand November 2023).
+4. Nutzen Sie nicht den Nuance-eigenen Audiokanal, müssen Sie die Remoteaudioeinstellungen konfigurieren. Folgende Einstellungen sind bei der Microsoft-Remotedesktopverbindung vorzunehmen - für Citrix müssen die Einstellungen von Ihrem Admin vorgenommen werden:
 
 ![Image: image_001](./Anleitung%20für%20cloudbasierte%20Nuance-Spracherkennung_images/image_001.png)
 
-## Mikrofon-Datenschutzeinstellungen
+### 1.5 Mikrofon-Datenschutzeinstellungen
 
 Unter Windows 10/11 und ggf. auch auf dem Server ist es ggf. notwendig, den Zugriff auf das Mikrofon zu erlauben. Dazu muss in den *Windows-Einstellungen* 🡪 *Datenschutz* 🡪 *Mikrofon* die Option *'Zugriff auf das Mikrofon auf diesem Gerät zulassen'* aktiviert sein.
 
-### Windows 10
+#### 1.5.1 Windows 10
 
 ![Image: image_002](./Anleitung%20für%20cloudbasierte%20Nuance-Spracherkennung_images/image_002.png)
 
-### Windows 11
+#### 1.5.2 Windows 11
 
 ![Image: image_003](./Anleitung%20für%20cloudbasierte%20Nuance-Spracherkennung_images/image_003.png)
 
-# Programmstart
+## 2. Programmstart
 
 Starten Sie Dragon Medical One (DMO), Dragon Professional Anywhere (DPA) oder Dragon Legal Anywhere (DLA) durch das entsprechende Icon auf Ihrem Windows-Desktop.
 
-## Anmeldung
+### 2.1 Anmeldung
 
 Sie müssen sich mit Ihren Zugangsdaten einloggen, die Sie von uns erhalten haben. Benutzername ist i.d.R. Ihre E-Mail-Adresse:
 
@@ -70,14 +69,14 @@ Nach der Anmeldung haben Sie im zweiten Schritt die Möglichkeit, Ihr zu verwend
 
 ![Image: image_005](./Anleitung%20für%20cloudbasierte%20Nuance-Spracherkennung_images/image_005.png)
 
-# Android und iOS Apps
+## Android und iOS Apps
 
-## PowerMic Mobile (nur für DMO)
+### PowerMic Mobile (nur für DMO)
 
 PowerMic Mobile (PMM) ist eine App für Android und iOS, mit welcher man das Smartphone als Mikrofon nutzen kann, um in DMO hineinzudiktieren. Dafür wird eine zusätzliche Lizenz benötigt. Wenn Sie PMM lizenziert haben und nutzen möchten, gehen Sie folgendermaßen vor:
 
-### 1. Starten Sie zuerst DMO auf dem PC und loggen Sie sich mit Ihren Zugangsdaten ein. Wählen Sie als Diktierquelle „PowerMic Mobile“ aus.
-### 2. Installieren Sie auf Ihrem Smartphone PMM über Google Play bzw. den Apple App Store. Sie dürfen die App dann zunächst nicht öffnen, sondern müssen zuerst folgenden QR-Code auf dem Mobilgerät scannen und den dann angezeigten Link mit der PMM-App öffnen:
+1. Starten Sie zuerst DMO auf dem PC und loggen Sie sich mit Ihren Zugangsdaten ein. Wählen Sie als Diktierquelle „PowerMic Mobile“ aus.
+2. Installieren Sie auf Ihrem Smartphone PMM über Google Play bzw. den Apple App Store. Sie dürfen die App dann zunächst nicht öffnen, sondern müssen zuerst folgenden QR-Code auf dem Mobilgerät scannen und den dann angezeigten Link mit der PMM-App öffnen:
 
 |  |  |
 | --- | --- |

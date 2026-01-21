@@ -1,6 +1,6 @@
 ---
-title: Dokumentation Überblick
-sidebar_position: 8
+title: Dokmentenmanagement
+sidebar_position: 1
 ---
 
 ### Eine neue Dimension der digitalen Büroverwaltung
@@ -16,4 +16,5 @@ sidebar_position: 8
 - Akten-Digitalisierung
 - Aktenortung
 - Inventarisierung
+- test
 

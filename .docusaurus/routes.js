@@ -94,73 +94,55 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', 'dd8'),
+    component: ComponentCreator('/faustmann-wiki/docs', '1ef'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', 'a1d'),
+        component: ComponentCreator('/faustmann-wiki/docs', 'fa0'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', 'ab8'),
+            component: ComponentCreator('/faustmann-wiki/docs', '8f9'),
             routes: [
               {
-                path: '/faustmann-wiki/docs/Findentity/einführung',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/einführung', 'a67'),
+                path: '/faustmann-wiki/docs/Findentity Büromanagement/Findentity Office/DMS',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity Büromanagement/Findentity Office/DMS', '03c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity/Findentity Grundlagen/Findentity Module',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Grundlagen/Findentity Module', 'a9c'),
+                path: '/faustmann-wiki/docs/Findentity Büromanagement/intro',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity Büromanagement/intro', '8ce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity/Findentity Grundlagen/transformed_doc/Anleitung für cloudbasierte Nuance-Spracherkennung',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Grundlagen/transformed_doc/Anleitung für cloudbasierte Nuance-Spracherkennung', 'd71'),
+                path: '/faustmann-wiki/docs/Findentity Büromanagement/transformed_doc/Kurzanleitung zur Bedienung von DMO DPA DLA',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity Büromanagement/transformed_doc/Kurzanleitung zur Bedienung von DMO DPA DLA', '470'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Branchenübersicht',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Branchenübersicht', '4b1'),
+                path: '/faustmann-wiki/docs/intro/',
+                component: ComponentCreator('/faustmann-wiki/docs/intro/', 'f42'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Gutachter',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Gutachter', 'a19'),
+                path: '/faustmann-wiki/docs/intro/markdown',
+                component: ComponentCreator('/faustmann-wiki/docs/intro/markdown', 'cb1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Kontakte',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Kontakte', '7c5'),
+                path: '/faustmann-wiki/docs/Test/Anleitung für cloudbasierte Nuance-Spracherkennung',
+                component: ComponentCreator('/faustmann-wiki/docs/Test/Anleitung für cloudbasierte Nuance-Spracherkennung', '3b3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Mappei DMS',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Mappei DMS', '669'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/Findentity/Findentity Profile/Projektmanagement',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Findentity Profile/Projektmanagement', '641'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/intro',
-                component: ComponentCreator('/faustmann-wiki/docs/intro', 'b6e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/markdown',
-                component: ComponentCreator('/faustmann-wiki/docs/markdown', 'e77'),
+                path: '/faustmann-wiki/docs/Test/intro2',
+                component: ComponentCreator('/faustmann-wiki/docs/Test/intro2', '6de'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

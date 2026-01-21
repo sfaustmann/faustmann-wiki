@@ -1,0 +1,72 @@
+[
+  {
+    "sid": "/kurzanleitung-zur-bedienung-von-dmo-dpa-dla",
+    "title": "Kurzanleitung zur Bedienung von DMO, DPA, DLA",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/dragon-leiste",
+        "title": "Dragon-Leiste",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung-von-dmo-dpa-dla",
+        "children": []
+      },
+      {
+        "sid": "/tipps-für-das-diktieren",
+        "title": "Tipps für das Diktieren",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung-von-dmo-dpa-dla",
+        "children": []
+      },
+      {
+        "sid": "/befehle",
+        "title": "Befehle",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung-von-dmo-dpa-dla",
+        "children": []
+      },
+      {
+        "sid": "/tastenkürzel",
+        "title": "Tastenkürzel",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung-von-dmo-dpa-dla",
+        "children": []
+      },
+      {
+        "sid": "/diktierfenster",
+        "title": "Diktierfenster",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung-von-dmo-dpa-dla",
+        "children": []
+      },
+      {
+        "sid": "/korrigieren-von-fehlern",
+        "title": "Korrigieren von Fehlern",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung-von-dmo-dpa-dla",
+        "children": [
+          {
+            "sid": "/beispiel-zum-korrigieren",
+            "title": "Beispiel zum Korrigieren",
+            "level": 3,
+            "parent": "/korrigieren-von-fehlern",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/vokabular-bearbeiten",
+        "title": "Vokabular bearbeiten",
+        "level": 2,
+        "parent": "/kurzanleitung-zur-bedienung-von-dmo-dpa-dla",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/bei-fragen",
+    "title": "Bei Fragen...",
+    "level": 1,
+    "children": []
+  }
+]
