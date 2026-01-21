@@ -1,6 +1,6 @@
 ---
-title: Dokumentation Überblick
-sidebar_position: 1
+title: Findentity Überblick 
+sidebar_position: 2
 ---
 
 ### Eine neue Dimension der digitalen Büroverwaltung

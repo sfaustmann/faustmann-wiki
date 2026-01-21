@@ -94,19 +94,25 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', '1cd'),
+    component: ComponentCreator('/faustmann-wiki/docs', 'ffd'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', 'bc4'),
+        component: ComponentCreator('/faustmann-wiki/docs', '394'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', '8cc'),
+            component: ComponentCreator('/faustmann-wiki/docs', '560'),
             routes: [
               {
+                path: '/faustmann-wiki/docs/Allgemeine Hilfen/markdown',
+                component: ComponentCreator('/faustmann-wiki/docs/Allgemeine Hilfen/markdown', '796'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/faustmann-wiki/docs/Dragon Schulung/200+ beste Befehle für Spracherkennung',
-                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/200+ beste Befehle für Spracherkennung', 'f11'),
+                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/200+ beste Befehle für Spracherkennung', 'fb2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -129,6 +135,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/faustmann-wiki/docs/Dragon Schulung/Kurzanleitung zur Bedienung von DMO DPA DLA',
+                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/Kurzanleitung zur Bedienung von DMO DPA DLA', '010'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/faustmann-wiki/docs/Dragon Schulung/Profi-Tipps für besseres Diktieren mit Spracherkennung',
                 component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/Profi-Tipps für besseres Diktieren mit Spracherkennung', 'ec7'),
                 exact: true,
@@ -141,32 +153,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity Büromanagement/Findentity Office/DMS',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity Büromanagement/Findentity Office/DMS', '03c'),
+                path: '/faustmann-wiki/docs/Findentity/einführung',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/einführung', 'a67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity Büromanagement/intro',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity Büromanagement/intro', '8ce'),
+                path: '/faustmann-wiki/docs/Findentity/intro',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/intro', '5e5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity Büromanagement/transformed_doc/Kurzanleitung zur Bedienung von DMO DPA DLA',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity Büromanagement/transformed_doc/Kurzanleitung zur Bedienung von DMO DPA DLA', '470'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/intro/',
-                component: ComponentCreator('/faustmann-wiki/docs/intro/', 'f42'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/intro/markdown',
-                component: ComponentCreator('/faustmann-wiki/docs/intro/markdown', 'cb1'),
+                path: '/faustmann-wiki/docs/intro',
+                component: ComponentCreator('/faustmann-wiki/docs/intro', 'b6e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
