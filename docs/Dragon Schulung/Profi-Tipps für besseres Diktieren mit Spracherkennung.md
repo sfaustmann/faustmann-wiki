@@ -31,7 +31,7 @@ Mit diesem Wissen lassen sich Optimierungen an verschiedenen Stellen der Sprache
 4. Des Weiteren produzieren hochwertige Mikrofone Audiodaten in einer von der Spracherkennungssoftware geforderten Abtastrate und Bittiefe. Beispielsweise verlangt die Dragon-Spracherkennungssoftware eine Abtastrate (Samplingrate) von mindestens 16 kHz.
 5. Ergänzend zur Aufnahmequalität zählt auch die Qualität Ihrer Aussprache. Vermeiden Sie es zu Nuscheln und Wörter undeutlich auszusprechen, Silben zu verschlucken und starke Dialekte zu verwenden.
 
-**Hinweise und Tipps zum besseren Diktieren bei Nutzung von Spracherkennung**
+# Hinweise und Tipps zum besseren Diktieren bei Nutzung von Spracherkennung
 
 ## Die richtige Aufnahmeumgebung
 
