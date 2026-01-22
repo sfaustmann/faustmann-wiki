@@ -10,39 +10,9 @@ Thax Software GmbH · Halberstädter Str. 6 · 10711 Berlin
 
 Inhalt
 
-[1. Vorbemerkung 3](#_Toc219883576)
+import TOCInline from '@theme/TOCInline';
 
-[2. Microsoft Edge – Sprachbefehle 4](#_Toc219883577)
-
-[2.1 Grundlagen 4](#_Toc219883578)
-
-[2.2 Tabulatoren und Navigation 4](#_Toc219883579)
-
-[2.3 Listenfelder und Webseiten-Steuerelemente 4](#_Toc219883580)
-
-[2.3.1 Listenfelder anklicken 4](#_Toc219883581)
-
-[2.3.2 Andere Steuerelemente anklicken 5](#_Toc219883582)
-
-[2.3.3 Steuerelemente anklicken, wenn diese mehrfach vorkommen 5](#_Toc219883583)
-
-[3. Google Chrome – Sprachbefehle 6](#_Toc219883584)
-
-[3.1 Grundlagen 6](#_Toc219883585)
-
-[3.2 Tabulatoren und Navigation 6](#_Toc219883586)
-
-[3.3 Listenfelder und Webseiten-Steuerelemente 6](#_Toc219883587)
-
-[3.3.1 Listenfelder anklicken 6](#_Toc219883588)
-
-[3.3.2 Andere Steuerelemente anklicken 6](#_Toc219883589)
-
-[3.3.3 Steuerelemente anklicken, wenn diese mehrfach vorkommen 7](#_Toc219883590)
-
-[3.3.4 Installation in Google Chrome 8](#_Toc219883591)
-
-[4. Kontakt 8](#_Toc219883592)
+<TOCInline toc={toc} />
 
 # Vorbemerkung
 
@@ -50,11 +20,11 @@ Dieses Dokument listet die wichtigsten Dragon-Sprachbefehle auf, um Browser-Funk
 
 Voraussetzung für die Verwendung sind die korrekt installierten Browser-Add-Ons für Google Chrome und Microsoft Edge für die entsprechende Dragon-Edition. Eine umfassende Installationsanleitung dazu finden Sie in unserem PDF-Dokument „Übersicht der Browser Add-Ons und Installation der Erweiterungen für Dragon 2025“.
 
-# Microsoft Edge – Sprachbefehle
+## Microsoft Edge – Sprachbefehle
 
 In Microsoft Edge stehen primär Navigations- und Tab-Steuerungsbefehle zur Verfügung. Eine direkte sprachliche Interaktion mit Webseitenelementen ist eingeschränkt.
 
-## Grundlagen
+### Grundlagen
 
 |  |  |
 | --- | --- |
@@ -70,7 +40,7 @@ In Microsoft Edge stehen primär Navigations- und Tab-Steuerungsbefehle zur Verf
 |  | b) Schließen Sie das Diktierfenster und diktieren Sie direkt in die Adressleiste. Wenden Sie diese Option an, wenn Sie die volle Textsteuerung nicht benötigen. |
 | 3. Diktierte Webseite öffnen | Drück Eingabetaste |
 
-## Tabulatoren und Navigation
+### Tabulatoren und Navigation
 
 |  |  |
 | --- | --- |
@@ -95,9 +65,8 @@ In Microsoft Edge stehen primär Navigations- und Tab-Steuerungsbefehle zur Verf
 | Ans Seitenende scrollen | Drücke Steuerung Ende |
 | An Seitenanfang scrollen | Drücke Steuerung Oben |
 
-##
 
-## Listenfelder und Webseiten-Steuerelemente
+### Listenfelder und Webseiten-Steuerelemente
 
 Sagen Sie „Klick“, gefolgt vom ganzen oder teilweisen Namen des Steuerelements. Wenn Sie in den Einstellungen (Dragon-Leiste \> Einstellungen \> Optionen \> Befehle) die Option **'Klick' sagen, um Schaltflächen und andere Steuerelemente auszuwählen** deaktiviert haben, müssen Sie nicht zusätzlich „Klick“ sagen, um ein Steuerelement anzuklicken. Sagen Sie dann einfach den Namen des Steuerelements. Mehr dazu auf der [Seite "Befehle" im Dialogfenster "Optionen"](https://www.nuance.com/products/help/dragon161/dragon-for-pc/deu/dlg-vla/Content/DialogBoxes/options/options_dialog_startshut_tab.htm).
 
@@ -146,11 +115,11 @@ Wenn Sie keine Zahl auswählen, sagen Sie einen der folgenden Befehle, um die Za
 - „Abbrechen“
 - „Rückgängig machen“
 
-# Google Chrome – Sprachbefehle
+## Google Chrome – Sprachbefehle
 
 Sie müssen zuerst die Dragon Professional-Weberweiterung für Chrome installieren, damit Ihnen die volle Textsteuerung zur Verfügung steht und um Webseiten-Steuerelemente mit Hilfe von gesprochenen Befehlen anzuklicken. Hinweis: Der Inkognito-Modus im Browser deaktiviert die Erweiterung.
 
-## Grundlagen
+### Grundlagen
 
 |  |  |
 | --- | --- |
@@ -162,7 +131,7 @@ Sie müssen zuerst die Dragon Professional-Weberweiterung für Chrome installier
 | 3. Diktierte Webseite öffnen | Drück Eingabetaste |
 | Liste von Web-Befehlen öffnen | Was kann ich sagen |
 
-## Tabulatoren und Navigation
+### Tabulatoren und Navigation
 
 |  |  |
 | --- | --- |
@@ -183,7 +152,7 @@ Sie müssen zuerst die Dragon Professional-Weberweiterung für Chrome installier
 | Dragon öffnet die nächste Seite Ihrer Browser-Chronik (Vorwärts) | Geh vorwärts |
 | Seite neu laden | Drücke F5 |
 
-## Listenfelder und Webseiten-Steuerelemente
+### Listenfelder und Webseiten-Steuerelemente
 
 Sagen Sie „Klick“, gefolgt vom ganzen oder teilweisen Namen des Steuerelements. Wenn Sie in den Einstellungen (Dragon-Leiste \> Einstellungen \> Optionen \> Befehle) die Option **'Klick' sagen, um Schaltflächen und andere Steuerelemente auszuwählen** deaktiviert haben, müssen Sie nicht zusätzlich „Klick“ sagen, um ein Steuerelement anzuklicken. Sagen Sie dann einfach den Namen des Steuerelements. Mehr dazu auf der [Seite "Befehle" im Dialogfenster "Optionen"](https://www.nuance.com/products/help/dragon161/dragon-for-pc/deu/dlg-vla/Content/DialogBoxes/options/options_dialog_startshut_tab.htm).
 

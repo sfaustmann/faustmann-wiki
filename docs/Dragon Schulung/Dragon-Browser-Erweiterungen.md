@@ -16,38 +16,11 @@ für Dragon 2025**
 
 Inhalt
 
-[1. Vorwort und Empfehlung geeigneter Web-Browser 3](#_Toc204332090)
+import TOCInline from '@theme/TOCInline';
 
-[2. Dragon Weberweiterung für Dragon Professional Group (DPG) und Dragon Legal Group (DLG) ab v15.7.1
-sowie Dragon Professional v16 und Dragon Legal v16 4](#_Toc204332091)
+<TOCInline toc={toc} />
 
-[2.1 Beschreibung des Add-On 4](#_Toc204332092)
-
-[2.1.1 Installation in Microsoft Edge 4](#_Toc204332093)
-
-[2.1.2 Installation in Google Chrome 6](#_Toc204332094)
-
-[3. Dragon Weberweiterung für Dragon Medical One (DMO), Dragon Medical Direct (DMD), Dragon
-Professional Anywhere (DPA), Dragon Legal Anywhere (DLA) 8](#_Toc204332095)
-
-[3.1 Beschreibung des Add-On 8](#_Toc204332096)
-
-[3.1.1 Installation in Microsoft Edge 9](#_Toc204332097)
-
-[3.1.2 Installation in Google Chrome 10](#_Toc204332098)
-
-[4. Nuance EHRi Web Extension – DMO Integration für web-basierte elektronische
-Gesundheitsaktensysteme wie Meditech und Athena 11](#_Toc204332099)
-
-[4.1 Beschreibung des Add-On 11](#_Toc204332100)
-
-[4.1.1 Installation in Microsoft Edge 12](#_Toc204332101)
-
-[4.1.2 Installation in Google Chrome 13](#_Toc204332102)
-
-[5. Kontakt 15](#_Toc204332103)
-
-# Vorwort und Empfehlung geeigneter Web-Browser
+## Vorwort und Empfehlung geeigneter Web-Browser
 
 Wir empfehlen die Verwendung des Microsoft-Browsers Edge, da hier die Verfügbarkeit der Add-Ons für nahezu alle Dragon-Versionen gegeben ist. Auch der Google Chrome Browser unterstützt die neuesten Dragon-Versionen.
 
@@ -59,7 +32,7 @@ Für eine stabile und sichere Verwendung nutzen Sie daher am besten den Edge- od
 
 Hinweis: Melden Sie sich zuvor in Ihrem Browser an oder erstellen ein Nutzerprofil. Im Gast-Modus oder im Private-/Inkognito-Modus können die Erweiterungen nicht installiert werden. Hier dargestellte Screenshots sind exemplarisch und können von Ihren tatsächlichen Browser-Einstellungen abweichen.
 
-# Dragon Weberweiterung für Dragon Professional Group (DPG) und Dragon Legal Group (DLG) ab v15.7.1 sowie Dragon Professional v16 und Dragon Legal v16
+## Dragon Weberweiterung für Dragon Professional Group (DPG) und Dragon Legal Group (DLG) ab v15.7.1 sowie Dragon Professional v16 und Dragon Legal v16
 
 ## Beschreibung des Add-On
 

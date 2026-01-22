@@ -6,25 +6,10 @@ Thax Software GmbH · Halberstädter Str. 6 · 10711 Berlin
 
 **Inhaltsverzeichnis**
 
-[Hintergrundwissen Spracherkennung: Von der Sprache zum Text 3](#_Toc190440434)
+import TOCInline from '@theme/TOCInline';
 
-[Komponenten der Spracherkennung – Der Weg von der Sprache zum Text 3](#_Toc190440435)
+<TOCInline toc={toc} />
 
-[Generelle Hinweise zum richtigen Diktieren 4](#_Toc190440436)
-
-[Hinweise und Tipps zum besseren Diktieren bei Nutzung von Spracherkennung 4](#_Toc190440437)
-
-[Die richtige Aufnahmeumgebung 4](#_Toc190440438)
-
-[Die richtige Position des Aufnahmegeräts 4](#_Toc190440439)
-
-[Die richtige Handhabung während der Aufnahme 5](#_Toc190440440)
-
-[Die wichtigsten Aspekte während der Aufnahme 5](#_Toc190440441)
-
-[Technische Aspekte bei Nutzung mobiler Diktat-Aufnahmegeräte 6](#_Toc190440442)
-
-[Kontakt 7](#_Toc190440443)
 
 # Hintergrundwissen Spracherkennung: Von der Sprache zum Text
 
@@ -40,13 +25,13 @@ Mit diesem Wissen lassen sich Optimierungen an verschiedenen Stellen der Sprache
 
 **Damit die Spracherkennung gut funktioniert und Sie bessere Ergebnisse erhalten, beachten Sie während der Aufnahme bitte Folgendes:**
 
-## 1. Die Audioaufnahme sollte möglichst nur Ihre Stimme beinhalten, d. h. je weniger Hintergrundgeräusche, desto besser.
-## 2. Die Aufnahmequalität hängt auch von der verwendeten Diktiertechnik bzw. dem Mikrofon ab. Hier lohnt es sich, auf Qualität zu setzen. Einige Headsets oder speziell für die Spracherkennung entwickelte Diktiermikrofone können teilweise Hintergrundgeräusche wegfiltern.
-## 3. Bei kabellosen Geräten (Bluetooth oder DECT) könnte je nach Modell und Funkstandard durch eine komprimierte drahtlose Datenübertragung die Qualität etwas leiden.
-## 4. Des Weiteren produzieren hochwertige Mikrofone Audiodaten in einer von der Spracherkennungssoftware geforderten Abtastrate und Bittiefe. Beispielsweise verlangt die Dragon-Spracherkennungssoftware eine Abtastrate (Samplingrate) von mindestens 16 kHz.
-## 5. Ergänzend zur Aufnahmequalität zählt auch die Qualität Ihrer Aussprache. Vermeiden Sie es zu Nuscheln und Wörter undeutlich auszusprechen, Silben zu verschlucken und starke Dialekte zu verwenden.
+1. Die Audioaufnahme sollte möglichst nur Ihre Stimme beinhalten, d. h. je weniger Hintergrundgeräusche, desto besser.
+2. Die Aufnahmequalität hängt auch von der verwendeten Diktiertechnik bzw. dem Mikrofon ab. Hier lohnt es sich, auf Qualität zu setzen. Einige Headsets oder speziell für die Spracherkennung entwickelte Diktiermikrofone können teilweise Hintergrundgeräusche wegfiltern.
+3. Bei kabellosen Geräten (Bluetooth oder DECT) könnte je nach Modell und Funkstandard durch eine komprimierte drahtlose Datenübertragung die Qualität etwas leiden.
+4. Des Weiteren produzieren hochwertige Mikrofone Audiodaten in einer von der Spracherkennungssoftware geforderten Abtastrate und Bittiefe. Beispielsweise verlangt die Dragon-Spracherkennungssoftware eine Abtastrate (Samplingrate) von mindestens 16 kHz.
+5. Ergänzend zur Aufnahmequalität zählt auch die Qualität Ihrer Aussprache. Vermeiden Sie es zu Nuscheln und Wörter undeutlich auszusprechen, Silben zu verschlucken und starke Dialekte zu verwenden.
 
-# Hinweise und Tipps zum besseren Diktieren bei Nutzung von Spracherkennung
+**Hinweise und Tipps zum besseren Diktieren bei Nutzung von Spracherkennung**
 
 ## Die richtige Aufnahmeumgebung
 
