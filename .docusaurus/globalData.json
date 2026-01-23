@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/faustmann-wiki/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Allgemeine Hilfen/markdown",
           "docs": [
             {
               "id": "Allgemeine Hilfen/markdown",
@@ -51,16 +51,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Findentity/einführung",
-              "path": "/faustmann-wiki/docs/Findentity/einführung",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Findentity/intro",
-              "path": "/faustmann-wiki/docs/Findentity/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Findentity/Releasenotes/Programmänderungen Findentity 2025",
               "path": "/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2025",
               "sidebar": "tutorialSidebar"
@@ -69,19 +59,14 @@
               "id": "Findentity/Releasenotes/Programmänderungen Findentity 2026",
               "path": "/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2026",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/faustmann-wiki/docs/intro",
-              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/faustmann-wiki/docs/intro",
-                "label": "intro"
+                "path": "/faustmann-wiki/docs/Allgemeine Hilfen/markdown",
+                "label": "Allgemeine Hilfen/markdown"
               }
             }
           }

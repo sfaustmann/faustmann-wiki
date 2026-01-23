@@ -94,15 +94,15 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', 'de0'),
+    component: ComponentCreator('/faustmann-wiki/docs', '6e6'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', 'f88'),
+        component: ComponentCreator('/faustmann-wiki/docs', 'c57'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', '6f1'),
+            component: ComponentCreator('/faustmann-wiki/docs', '77b'),
             routes: [
               {
                 path: '/faustmann-wiki/docs/Allgemeine Hilfen/markdown',
@@ -153,18 +153,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Findentity/einführung',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/einführung', 'a67'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/Findentity/intro',
-                component: ComponentCreator('/faustmann-wiki/docs/Findentity/intro', '5e5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2025',
                 component: ComponentCreator('/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2025', '3d8'),
                 exact: true,
@@ -173,12 +161,6 @@ export default [
               {
                 path: '/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2026',
                 component: ComponentCreator('/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2026', 'b37'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/faustmann-wiki/docs/intro',
-                component: ComponentCreator('/faustmann-wiki/docs/intro', 'b6e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

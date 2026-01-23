@@ -18,7 +18,7 @@ sidebar_position: 1
 - Die Option „Ordner verstecken“ wird jetzt in der Datenbank abgelegt und ist außerdem standardmäßig aktiviert.
 - Bisher war in der Diktatliste standardmäßig der Filter Erledigt = Nein gesetzt. Dieser wurde geändert zu Erledigt = Alle.
 - Fehler beseitigt: Wenn ein Diktat einem Profil zugeordnet werden sollte, in welchem noch kein Datensatz existierte, wurde u. U. ein leerer Datensatz angelegt.
-- Diktiergeräteverwaltung:
+#### Diktiergeräteverwaltung:
 - Beim Verschieben von Einträgen mit Drag & Drop kann jetzt auch in der Liste gescrollt werden.
 - Unter dem Menü „Allgemein“ gibt es die Option „Auswahl-Checkbox anzeigen“. Wenn gesetzt, bekommen die Einträge Checkboxen, sodass man mehrere Einträge mit einem Mal zum Verschieben kennzeichnen kann.
 - Man kann auch nach Gruppe suchen
