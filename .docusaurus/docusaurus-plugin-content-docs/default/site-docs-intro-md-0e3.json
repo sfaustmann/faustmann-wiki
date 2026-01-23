@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Faustmann Hilfe",
-  "description": "Eine neue Dimension der digitalen Büroverwaltung",
+  "title": "After-Sales-Service",
+  "description": "\"Hier werden Sie geholfen!\" ;-\\)",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "title": "Faustmann Hilfe",
+    "title": "After-Sales-Service",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",

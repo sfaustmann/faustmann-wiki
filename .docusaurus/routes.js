@@ -94,15 +94,15 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', '6e6'),
+    component: ComponentCreator('/faustmann-wiki/docs', 'c6f'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', 'c57'),
+        component: ComponentCreator('/faustmann-wiki/docs', '925'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', '77b'),
+            component: ComponentCreator('/faustmann-wiki/docs', '606'),
             routes: [
               {
                 path: '/faustmann-wiki/docs/Allgemeine Hilfen/markdown',
@@ -129,12 +129,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faustmann-wiki/docs/Dragon Schulung/intro',
-                component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/intro', '686'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/faustmann-wiki/docs/Dragon Schulung/Kurzanleitung zur Bedienung von DMO DPA DLA',
                 component: ComponentCreator('/faustmann-wiki/docs/Dragon Schulung/Kurzanleitung zur Bedienung von DMO DPA DLA', '010'),
                 exact: true,
@@ -153,6 +147,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/faustmann-wiki/docs/Findentity/einführung',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/einführung', 'a67'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2025',
                 component: ComponentCreator('/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2025', '3d8'),
                 exact: true,
@@ -161,6 +161,12 @@ export default [
               {
                 path: '/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2026',
                 component: ComponentCreator('/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2026', 'b37'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/intro',
+                component: ComponentCreator('/faustmann-wiki/docs/intro', 'b6e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

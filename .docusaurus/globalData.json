@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/faustmann-wiki/docs",
-          "mainDocId": "Allgemeine Hilfen/markdown",
+          "mainDocId": "intro",
           "docs": [
             {
               "id": "Allgemeine Hilfen/markdown",
@@ -31,11 +31,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Dragon Schulung/intro",
-              "path": "/faustmann-wiki/docs/Dragon Schulung/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Dragon Schulung/Kurzanleitung zur Bedienung von DMO DPA DLA",
               "path": "/faustmann-wiki/docs/Dragon Schulung/Kurzanleitung zur Bedienung von DMO DPA DLA",
               "sidebar": "tutorialSidebar"
@@ -51,6 +46,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Findentity/einführung",
+              "path": "/faustmann-wiki/docs/Findentity/einführung",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Findentity/Releasenotes/Programmänderungen Findentity 2025",
               "path": "/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2025",
               "sidebar": "tutorialSidebar"
@@ -59,14 +59,19 @@
               "id": "Findentity/Releasenotes/Programmänderungen Findentity 2026",
               "path": "/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2026",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/faustmann-wiki/docs/intro",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/faustmann-wiki/docs/Allgemeine Hilfen/markdown",
-                "label": "Allgemeine Hilfen/markdown"
+                "path": "/faustmann-wiki/docs/intro",
+                "label": "intro"
               }
             }
           }
