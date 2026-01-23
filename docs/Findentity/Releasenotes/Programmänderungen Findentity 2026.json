@@ -1,0 +1,23 @@
+[
+  {
+    "sid": "/2026-01-19",
+    "title": "2026-01-19",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2026-01-19",
+        "children": []
+      },
+      {
+        "sid": "/dictate",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2026-01-19",
+        "children": []
+      }
+    ]
+  }
+]

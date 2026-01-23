@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/faustmann-wiki/__docusaurus/debug',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug', '46e'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/config',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/config', '75c'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/content',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/content', '2c9'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/globalData',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/globalData', 'f07'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/metadata',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/metadata', '858'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/registry',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/registry', 'df9'),
+    exact: true
+  },
+  {
+    path: '/faustmann-wiki/__docusaurus/debug/routes',
+    component: ComponentCreator('/faustmann-wiki/__docusaurus/debug/routes', '599'),
+    exact: true
+  },
+  {
     path: '/faustmann-wiki/blog',
     component: ComponentCreator('/faustmann-wiki/blog', '9e9'),
     exact: true
@@ -59,15 +94,15 @@ export default [
   },
   {
     path: '/faustmann-wiki/docs',
-    component: ComponentCreator('/faustmann-wiki/docs', 'ffd'),
+    component: ComponentCreator('/faustmann-wiki/docs', 'de0'),
     routes: [
       {
         path: '/faustmann-wiki/docs',
-        component: ComponentCreator('/faustmann-wiki/docs', '394'),
+        component: ComponentCreator('/faustmann-wiki/docs', 'f88'),
         routes: [
           {
             path: '/faustmann-wiki/docs',
-            component: ComponentCreator('/faustmann-wiki/docs', '560'),
+            component: ComponentCreator('/faustmann-wiki/docs', '6f1'),
             routes: [
               {
                 path: '/faustmann-wiki/docs/Allgemeine Hilfen/markdown',
@@ -126,6 +161,18 @@ export default [
               {
                 path: '/faustmann-wiki/docs/Findentity/intro',
                 component: ComponentCreator('/faustmann-wiki/docs/Findentity/intro', '5e5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2025',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2025', '3d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2026',
+                component: ComponentCreator('/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2026', 'b37'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -1,0 +1,255 @@
+[
+  {
+    "sid": "/2025-01-22",
+    "title": "2025-01-22",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2025-01-22",
+        "children": []
+      },
+      {
+        "sid": "/dictate",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2025-01-22",
+        "children": []
+      },
+      {
+        "sid": "/office",
+        "title": "Office",
+        "level": 2,
+        "parent": "/2025-01-22",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/2025-02-04",
+    "title": "2025-02-04",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein-1",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2025-02-04",
+        "children": []
+      },
+      {
+        "sid": "/dictate-1",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2025-02-04",
+        "children": [
+          {
+            "sid": "/findentity-back-end-spracherkennung",
+            "title": "Findentity Back-End Spracherkennung",
+            "level": 3,
+            "parent": "/dictate-1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "/2025-02-19",
+    "title": "2025-02-19",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein-2",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2025-02-19",
+        "children": []
+      },
+      {
+        "sid": "/dictate-2",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2025-02-19",
+        "children": []
+      },
+      {
+        "sid": "/office-1",
+        "title": "Office",
+        "level": 2,
+        "parent": "/2025-02-19",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/2025-04-25",
+    "title": "2025-04-25",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein-3",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2025-04-25",
+        "children": []
+      },
+      {
+        "sid": "/dictate-3",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2025-04-25",
+        "children": []
+      },
+      {
+        "sid": "/office-2",
+        "title": "Office",
+        "level": 2,
+        "parent": "/2025-04-25",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/2025-06-24",
+    "title": "2025-06-24",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein-4",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2025-06-24",
+        "children": []
+      },
+      {
+        "sid": "/dictate-4",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2025-06-24",
+        "children": []
+      },
+      {
+        "sid": "/office-3",
+        "title": "Office",
+        "level": 2,
+        "parent": "/2025-06-24",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/2025-07-16",
+    "title": "2025-07-16",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein-5",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2025-07-16",
+        "children": []
+      },
+      {
+        "sid": "/dictate-5",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2025-07-16",
+        "children": []
+      },
+      {
+        "sid": "/office-4",
+        "title": "Office",
+        "level": 2,
+        "parent": "/2025-07-16",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/2025-09-09",
+    "title": "2025-09-09",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein-6",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2025-09-09",
+        "children": []
+      },
+      {
+        "sid": "/dictate-6",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2025-09-09",
+        "children": []
+      },
+      {
+        "sid": "/finder",
+        "title": "Finder",
+        "level": 2,
+        "parent": "/2025-09-09",
+        "children": []
+      },
+      {
+        "sid": "/office-5",
+        "title": "Office",
+        "level": 2,
+        "parent": "/2025-09-09",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/2025-10-22",
+    "title": "2025-10-22",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein-7",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2025-10-22",
+        "children": []
+      },
+      {
+        "sid": "/dictate-7",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2025-10-22",
+        "children": []
+      },
+      {
+        "sid": "/office-6",
+        "title": "Office",
+        "level": 2,
+        "parent": "/2025-10-22",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/2025-12-17",
+    "title": "2025-12-17",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/allgemein-8",
+        "title": "Allgemein",
+        "level": 2,
+        "parent": "/2025-12-17",
+        "children": []
+      },
+      {
+        "sid": "/dictate-8",
+        "title": "Dictate",
+        "level": 2,
+        "parent": "/2025-12-17",
+        "children": []
+      }
+    ]
+  }
+]

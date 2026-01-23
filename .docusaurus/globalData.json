@@ -61,6 +61,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Findentity/Releasenotes/Programmänderungen Findentity 2025",
+              "path": "/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2025",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Findentity/Releasenotes/Programmänderungen Findentity 2026",
+              "path": "/faustmann-wiki/docs/Findentity/Releasenotes/Programmänderungen Findentity 2026",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/faustmann-wiki/docs/intro",
               "sidebar": "tutorialSidebar"
